@@ -1,0 +1,31 @@
+{
+  "name": "atlas-chaldea-info-merge",
+  "version": "1.0.0",
+  "description": "This scripts merge the best part of the api atlas academy and dataset of chaldea app",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node server/apollo",
+    "update": "node scripts/update",
+    "merge": "node scripts/test/merge"
+  },
+  "keywords": [
+    "FGO"
+  ],
+  "author": "Isaac",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.2",
+    "axios": "^0.25.0",
+    "cli-progress": "^3.10.0",
+    "graphql": "^16.2.0",
+    "jsonpath": "^1.1.1",
+    "kleur": "^4.1.4",
+    "onezip": "^5.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^14.2.0",
+    "eslint": "^8.7.0",
+    "eslint-config-prettier": "^8.3.0",
+    "nodemon": "^2.0.15"
+  }
+}

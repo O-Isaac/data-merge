@@ -1,0 +1,1025 @@
+[
+  {
+    "name": "Mystic Code: Chaldea",
+    "description": "A Mystic Code provided to the Masters of Chaldea Security Organization.",
+    "obtain": [
+      "The player's default mystic code."
+    ],
+    "skills": [
+      {
+        "name": "First Aid",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "effects": [
+          "Recovers one servant's HP. (1000, 1200, 1400, 1600, 1800, 2000, 2200, 2400, 2600, 3000)"
+        ]
+      },
+      {
+        "name": "Momentary Reinforcement",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+        "effects": [
+          "500% Chance to increase one servant's attack for 1 turn. (30%, 32%, 34%, 36%, 38%, 40%, 42%, 44%, 46%, 50%)"
+        ]
+      },
+      {
+        "name": "Emergency Evasion",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+        "effects": [
+          "500% Chance to grant one servant Evasion for 1 turn. (∅)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00002.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00001.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00002.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00001.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00002.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00001.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Chaldea Combat Uniform",
+    "description": "Created by the tech team at Chaldea Security Organization to withstand harsh and intense battlefields.",
+    "obtain": [
+      "Released with London."
+    ],
+    "skills": [
+      {
+        "name": "Reinforce All",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+        "effects": [
+          "500% Chance to increase party's attack for 1 turn. (20%, 21%, 22%, 23%, 24%, 25%, 26%, 27%, 28%, 30%)"
+        ]
+      },
+      {
+        "name": "Gandr",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00508.png",
+        "effects": [
+          "500% Chance to Stun one enemy for 1 turn. (∅)"
+        ]
+      },
+      {
+        "name": "Order Change",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00704.png",
+        "effects": [
+          "Exchanges the party positions of one servant in the field and one sub servant. (∅)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00022.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00021.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00022.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00021.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00022.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00021.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Mage's Association Uniform",
+    "description": "Given to outstanding students acknowledged by the Mage's Association.",
+    "obtain": [
+      "Released with London."
+    ],
+    "skills": [
+      {
+        "name": "Heal All",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "effects": [
+          "Recovers party's HP. (800, 1000, 1200, 1400, 1600, 1800, 2000, 2200, 2400, 2800)"
+        ]
+      },
+      {
+        "name": "Spiritron Transfer",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+        "effects": [
+          "Charges one servant's NP gauge by 20%. (20%)"
+        ]
+      },
+      {
+        "name": "Command Shuffle",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00703.png",
+        "effects": [
+          "Randomly deals 5 new Command Cards. (∅)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00032.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00031.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00032.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00031.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00032.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00031.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Atlas Academy Uniform",
+    "description": "Created by the Atlas Institute to be the \"most powerful\" Mystic Code.",
+    "obtain": [
+      "Released with London."
+    ],
+    "skills": [
+      {
+        "name": "Dust of Osiris",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00403.png",
+        "effects": [
+          "500% Chance to grant one servant Invincibility for 1 turn. (∅)"
+        ]
+      },
+      {
+        "name": "Rain of Isis",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+        "effects": [
+          "500% Chance to remove one servant's debuffs. (∅)"
+        ]
+      },
+      {
+        "name": "Eye of Medjed",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00609.png",
+        "effects": [
+          "Reduces one servant's skills cooldown by 2. (∅)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00042.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00041.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00042.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00041.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00042.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00041.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Anniversary Blonde",
+    "description": "Replica of the costume once worn by the King of Knights.",
+    "obtain": [
+      "Released with the 2M and 5M Downloads Campaign."
+    ],
+    "skills": [
+      {
+        "name": "Mana Burst",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+        "effects": [
+          "500% Chance to increase one servant's Buster performance for 1 turn. (40%, 42%, 44%, 46%, 48%, 50%, 52%, 54%, 56%, 60%)"
+        ]
+      },
+      {
+        "name": "Conviction of Victory",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+        "effects": [
+          "Gains critical stars. (10, 11, 12, 13, 14, 15, 16, 17, 18, 20)"
+        ]
+      },
+      {
+        "name": "Knight's Oath",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
+        "effects": [
+          "500% Chance to grant one servant Guts status for 1 turn. (2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 4000)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00052.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00051.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00052.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00051.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00052.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00051.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Royal Brand",
+    "description": "A Mystic Code once used by a beautiful knight during a certain Holy Grail War.",
+    "obtain": [
+      "Released with the Fate/Accel Zero Order Advance Campaign."
+    ],
+    "skills": [
+      {
+        "name": "Reaction Enhancement",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+        "effects": [
+          "500% Chance to increase one servant's Quick performance for 1 turn. (30%, 32%, 34%, 36%, 38%, 40%, 42%, 44%, 46%, 50%)"
+        ]
+      },
+      {
+        "name": "Iron Will",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
+        "effects": [
+          "500% Chance to increase one servant's critical star absorption for 1 turn. (500%, 550%, 600%, 650%, 700%, 750%, 800%, 850%, 900%, 1000%)"
+        ]
+      },
+      {
+        "name": "Unavoidable Strike",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00310.png",
+        "effects": [
+          "500% Chance to grant one servant ignores Evasion for 1 turn. (∅)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00062.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00061.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00062.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00061.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00062.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00061.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Brilliant Summer",
+    "description": "Gear created by the Da Vinci Workshop for tropical climates. In other words, a swimsuit that is also a Mystic Code with combat functions.",
+    "obtain": [
+      "Released with the Chaldea Summer Memory."
+    ],
+    "skills": [
+      {
+        "name": "Rumble Party",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+        "effects": [
+          "500% Chance to increase party's Quick performance for 1 turn. (20%, 21%, 22%, 23%, 24%, 25%, 26%, 27%, 28%, 30%)"
+        ]
+      },
+      {
+        "name": "Sure-Kill Trident",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00312.png",
+        "effects": [
+          "500% Chance to grant one servant ignores Invincibility status for 1 turn. (∅)"
+        ]
+      },
+      {
+        "name": "Sea House Shower",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "effects": [
+          "Recovers one servant's HP. (1000, 1200, 1400, 1600, 1800, 2000, 2200, 2400, 2600, 3000)",
+          "Charges their NP gauge by 10%. (10%)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00072.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00071.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00072.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00071.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00072.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00071.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Memoria of Lunar Mare",
+    "description": "A Mystic Code modeled after a certain school's uniform from a certain parallel world.",
+    "obtain": [
+      "Was available during the Fate/EXTELLA Release Commemoration Campaign"
+    ],
+    "skills": [
+      {
+        "name": "Spiritron Elevation",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+        "effects": [
+          "500% Chance to increase one servant's Arts performance for 1 turn. (30%, 32%, 34%, 36%, 38%, 40%, 42%, 44%, 46%, 50%)"
+        ]
+      },
+      {
+        "name": "Groundwork For Complete Victory",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00604.png",
+        "effects": [
+          "500% Chance to increase one servant's critical star generation rate for 1 turn. (50%, 55%, 60%, 65%, 70%, 75%, 80%, 85%, 90%, 100%)"
+        ]
+      },
+      {
+        "name": "Punishment",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00521.png",
+        "effects": [
+          "Inflicts Buff Block status to one enemy for 1 time. (∅)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00082.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00081.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00082.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00081.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00082.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00081.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Memoria of the Far Side of the Moon",
+    "description": "A Mystic Code patterned after the old uniform of a certain school located in a parallel world.",
+    "obtain": [
+      "Released with Fate/EXTRA CCC×Fate/Grand Order Pre-Event Campaign"
+    ],
+    "skills": [
+      {
+        "name": "Complete Spiritron Elevation",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+        "effects": [
+          "500% Chance to increase party's Arts performance for 1 turn. (20%, 21%, 22%, 23%, 24%, 25%, 26%, 27%, 28%, 30%)"
+        ]
+      },
+      {
+        "name": "Groundwork for Survival",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00411.png",
+        "effects": [
+          "500% Chance to grant one servant Debuff Immunity for 1 time. (∅)"
+        ]
+      },
+      {
+        "name": "Down Slide",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00513.png",
+        "effects": [
+          "Removes one enemy's NP gauge by 1. (∅)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00092.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00091.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00092.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00091.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00092.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00091.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Fragment of Year 2004",
+    "description": "A Mystic Code imitating the school uniform of a certain city in Japan. In a battle for the Holy Grail, several Masters wore it.",
+    "obtain": [
+      "Released with Fate/stay night - Heaven's Feel Movie Premiere Commemoration Campaign"
+    ],
+    "skills": [
+      {
+        "name": "Code: F",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+        "effects": [
+          "500% Chance to increase one servant's NP damage for 1 turn. (30%, 32%, 34%, 36%, 38%, 40%, 42%, 44%, 46%, 50%)"
+        ]
+      },
+      {
+        "name": "Code: U",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00308.png",
+        "effects": [
+          "500% Chance to increase one servant's critical star absorption of Buster Cards for 1 turn. (5000%, 5500%, 6000%, 6500%, 7000%, 7500%, 8000%, 8500%, 9000%, 10000%)"
+        ]
+      },
+      {
+        "name": "Code: H",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00602.png",
+        "effects": [
+          "500% Chance to increase one servant's NP generation rate for 1 turn. (30%, 32%, 34%, 36%, 38%, 40%, 42%, 44%, 46%, 50%)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00102.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00101.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00102.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00101.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00102.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00101.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Arctic Region Chaldea Uniform",
+    "description": "A Mystic Code created in anticipation of the wearer encountering extreme cold.",
+    "obtain": [
+      "Released with Anastasia Release Campaign."
+    ],
+    "skills": [
+      {
+        "name": "Purge & Restore",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "effects": [
+          "Recovers one servant's HP. (1000, 1200, 1400, 1600, 1800, 2000, 2200, 2400, 2600, 3000)",
+          "23px 500% Chance to remove their defensive debuffs. (∅)"
+        ]
+      },
+      {
+        "name": "Phantasmal Reinforcement",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+        "effects": [
+          "500% Chance to increase one servant's attack for 1 turn. (20%, 22%, 24%, 26%, 28%, 30%, 32%, 34%, 36%, 40%)",
+          "500% Chance to increase their NP damage for 1 turn. (10%, 11%, 12%, 13%, 14%, 15%, 16%, 17%, 18%, 20%)"
+        ]
+      },
+      {
+        "name": "Protracted Evasion",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+        "effects": [
+          "500% Chance to grant one servant Evasion for 1 attack, 3 turns. (∅)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00112.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00111.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00112.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00111.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00112.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00111.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Tropical Summer",
+    "description": "Gear created by the Da Vinci Workshop for southern climates. In other words, an Aloha Mystic Code with combat functions.",
+    "obtain": [
+      "Released with Servant Summer Festival"
+    ],
+    "skills": [
+      {
+        "name": "Blue Splash",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+        "effects": [
+          "500% Chance to increase one servant's Arts performance for 1 turn. (20%, 21%, 22%, 23%, 24%, 25%, 26%, 27%, 28%, 30%)",
+          "500% Chance to increase their NP damage for 1 turn. (10%, 11%, 12%, 13%, 14%, 15%, 16%, 17%, 18%, 20%)"
+        ]
+      },
+      {
+        "name": "Supply Water",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00309.png",
+        "effects": [
+          "500% Chance to increase one servant's critical star absorption of Arts Cards for 1 turn. (5000%, 5500%, 6000%, 6500%, 7000%, 7500%, 8000%, 8500%, 9000%, 10000%)"
+        ]
+      },
+      {
+        "name": "Safety Oil",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00416.png",
+        "effects": [
+          "500% Chance to increase one servant's buff removal resistance for 1 turn. (50%, 55%, 60%, 65%, 70%, 75%, 80%, 85%, 90%, 100%)",
+          "Charges their NP gauge by 10%. (10%)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00122.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00121.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00122.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00121.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00122.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00121.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Ceremonial New Year",
+    "description": "A special outfit made to represent Japanese culture. It's the first fashion design collaboration between Da Vinci and Sion.",
+    "obtain": [
+      "Released with Happy New Year 2019/2021"
+    ],
+    "skills": [
+      {
+        "name": "First Shine",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+        "effects": [
+          "500% Chance to increase party's NP damage for 1 turn. (25%, 26%, 27%, 28%, 29%, 30%, 31%, 32%, 33%, 35%)"
+        ]
+      },
+      {
+        "name": "Little Gift",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+        "effects": [
+          "Charges one servant's NP gauge by 10%. (10%)",
+          "Gains critical stars. (5, 6, 7, 8, 9, 10, 11, 12, 13, 15)"
+        ]
+      },
+      {
+        "name": "Osechi Package",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00412.png",
+        "effects": [
+          "500% Chance to increase one servant's Max HP for 1 turn. (1000, 1200, 1400, 1600, 1800, 2000, 2200, 2400, 2600, 3000)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00132.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00131.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00132.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00131.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00132.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00131.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Captain Chaldea",
+    "description": "An ordinary spacesuit in this Universe, but it makes you the Captain.",
+    "obtain": [
+      "Released with Saber Wars II"
+    ],
+    "skills": [
+      {
+        "name": "Over Charger",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+        "effects": [
+          "500% Chance to increases one servant's NP damage for 1 turn. (30%, 32%, 34%, 36%, 38%, 40%, 42%, 44%, 46%, 50%)",
+          "500% Chance to remove their offensive debuffs. (∅)"
+        ]
+      },
+      {
+        "name": "Star Blaster",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+        "effects": [
+          "500% Chance to increase one servant's critical damage for 1 turn. (30%, 32%, 34%, 36%, 38%, 40%, 42%, 44%, 46%, 50%)"
+        ]
+      },
+      {
+        "name": "Escape Pod",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+        "effects": [
+          "500% Chance to grant one servant Evasion for 1 attack, 3 turns. (∅)",
+          "Recovers their HP. (1000, 1200, 1400, 1600, 1800, 2000, 2200, 2400, 2600, 3000)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00152.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00151.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00152.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00151.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00152.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00151.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Fifth True Theoretical Factor Environment Purpose Chaldea Uniform",
+    "description": "A Mystic Code created in anticipation of the wearer being in an environment full of True Ether in the Age of Gods.",
+    "obtain": [
+      "Released with the \"Fate/Grand Order Absolute Demonic Front: Babylonia\" Anime Release Campaign: Part Three"
+    ],
+    "skills": [
+      {
+        "name": "Attack Simultaneously",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+        "effects": [
+          "500% Chance to increase the party's Buster Card Performance for 1 turn. (25%, 26%, 27%, 28%, 29%, 30%, 31%, 32%, 33%, 35%)"
+        ]
+      },
+      {
+        "name": "Threefold Therapy",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00606.png",
+        "effects": [
+          "500% Chance to grant one ally Healing Regeneration buff for 3 turns. (1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 2000)"
+        ]
+      },
+      {
+        "name": "Mana Conversion",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+        "effects": [
+          "Charges one ally's NP gauge by 10%. (10%)",
+          "500% Chance to increase their NP generation rate for 1 turn. (20%, 22%, 24%, 26%, 28%, 30%, 32%, 34%, 36%, 40%)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00162.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00161.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00162.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00161.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00162.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00161.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Chaldea Pathfinder",
+    "description": "山岳・森林地帯での遊び、もとい冒険を想定したスカウト・ユニフォーム",
+    "obtain": [
+      "Released with Servant Summer Camp 2020."
+    ],
+    "skills": [
+      {
+        "name": "Orienteering",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+        "effects": [
+          "500% Chance to increase one ally's Quick performance for 1 turn. (20%, 21%, 22%, 23%, 24%, 25%, 26%, 27%, 28%, 30%)",
+          "500% Chance to increase their NP damage for 1 turn. (10%, 11%, 12%, 13%, 14%, 15%, 16%, 17%, 18%, 20%)"
+        ]
+      },
+      {
+        "name": "Campfire",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+        "effects": [
+          "500% Chance to increase party's critical damage for 1 turn. (20%, 21%, 22%, 23%, 24%, 25%, 26%, 27%, 28%, 30%)"
+        ]
+      },
+      {
+        "name": "Survival Kit",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+        "effects": [
+          "500% Chance to remove one ally's Ailment Debuffs. (∅)",
+          "Charges their NP gauge by 10%. (10%)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00172.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00171.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00172.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00171.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00172.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00171.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Halloween Royalty",
+    "description": "A dignified and elegant clothing.\nNow you are the Crown Prince (Halloween)!",
+    "obtain": [
+      "Released with Halloween 2021 Event"
+    ],
+    "skills": [
+      {
+        "name": "Brilliant Escort",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+        "effects": [
+          "500% Chance to increase one ally's Buster performance for 1 turn. (20%, 21%, 22%, 23%, 24%, 25%, 26%, 27%, 28%, 30%)",
+          "500% Chance to increase their NP damage for 1 turn. (10%, 11%, 12%, 13%, 14%, 15%, 16%, 17%, 18%, 20%)"
+        ]
+      },
+      {
+        "name": "Pure Coordinate",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00403.png",
+        "effects": [
+          "500% Chance to grant one servant Invincibility for 2 attacks, 1 turn. (∅)"
+        ]
+      },
+      {
+        "name": "Blessed Regenerate",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+        "effects": [
+          "500% Chance to remove one ally's Immobility, NP Seal, and Skill Seal Debuffs. (∅)",
+          "Charges their NP gauge by 10%. (10%)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00192.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00191.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00192.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00191.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00192.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00191.png"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Decisive-Battle Chaldea Uniform",
+    "description": "カルデアベースで新作された魔術礼装\nシオンの協力の下、開発された",
+    "obtain": [
+      "???"
+    ],
+    "skills": [
+      {
+        "name": "Decisive-Battle Strengthening",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+        "effects": [
+          "500% Chance to increase party's attack for 1 turn. (10%, 11%, 12%, 13%, 14%, 15%, 16%, 17%, 18%, 20%)",
+          "500% Chance to increase party's NP damage for 1 turn. (10%, 11%, 12%, 13%, 14%, 15%, 16%, 17%, 18%, 20%)"
+        ]
+      },
+      {
+        "name": "Front-Line Recovery",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "effects": [
+          "Recovers one servant's HP. (1000, 1200, 1400, 1600, 1800, 2000, 2200, 2400, 2600, 3000)",
+          "500% Chance to remove their offensive debuffs. (∅)"
+        ]
+      },
+      {
+        "name": "Order Change",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00704.png",
+        "effects": [
+          "Exchanges the party positions of one servant in the field and one sub servant. (∅)"
+        ]
+      }
+    ],
+    "images": {
+      "item": {
+        "female": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00212.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/Items/masterequip00211.png"
+        ]
+      },
+      "masterFace": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00212.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFace/equip00211.png"
+        ]
+      },
+      "masterFigure": {
+        "female": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00212.png"
+        ],
+        "male": [
+          "https://static.atlasacademy.io/JP/MasterFigure/equip00211.png"
+        ]
+      }
+    }
+  }
+]

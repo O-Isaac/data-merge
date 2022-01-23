@@ -1,0 +1,4097 @@
+[
+  {
+    "id": 8400010,
+    "collectionNo": 1,
+    "name": "Code: Mortal",
+    "rarity": 1,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400010": "https://static.atlasacademy.io/JP/CommandGraph/8400010a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400010": "https://static.atlasacademy.io/JP/CommandCodes/c_8400010.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991372,
+      "name": "Code: Mortal",
+      "ruby": "こーど：もーたる",
+      "detail": {
+        "skill": "Increases damage against Human enemies by 5% of the engraved card.",
+        "description": "Like a knot coming undone, it begins to unravel from the point of contact."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔人間〕特攻効果を5%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "結び目手繰り紐解くように、\n触れた先から崩れゆく。"
+  },
+  {
+    "id": 8400020,
+    "collectionNo": 2,
+    "name": "Code: Brute",
+    "rarity": 1,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400020": "https://static.atlasacademy.io/JP/CommandGraph/8400020a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400020": "https://static.atlasacademy.io/JP/CommandCodes/c_8400020.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991373,
+      "name": "Code: Brute",
+      "ruby": "こーど：ぶるーと",
+      "detail": {
+        "skill": "Increases damage against Beast enemies by 5% of the engraved card.",
+        "description": "Upon hearing the beast's roar, victory shall be in your grasp."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔猛獣〕特攻効果を5%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "獣の唸りが聴こえし後、\n汝は勝利を掴むだろう。"
+  },
+  {
+    "id": 8400030,
+    "collectionNo": 3,
+    "name": "Code: Corpse",
+    "rarity": 1,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400030": "https://static.atlasacademy.io/JP/CommandGraph/8400030a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400030": "https://static.atlasacademy.io/JP/CommandCodes/c_8400030.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991374,
+      "name": "Code: Corpse",
+      "ruby": "こーど：こーぷす",
+      "detail": {
+        "skill": "Increases damage against Undead enemies by 5% of the engraved card.",
+        "description": "The sound of one's fellows, beating down in the bowels of the earth. This tune calls forth the dead."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔死霊〕特攻効果を5%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "地の底より響く同胞の音。\n亡者を呼び込む調べとなる。"
+  },
+  {
+    "id": 8400040,
+    "collectionNo": 4,
+    "name": "Code: Evil",
+    "rarity": 1,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400040": "https://static.atlasacademy.io/JP/CommandGraph/8400040a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400040": "https://static.atlasacademy.io/JP/CommandCodes/c_8400040.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991375,
+      "name": "Code: Evil",
+      "ruby": "こーど：いーびる",
+      "detail": {
+        "skill": "Increases damage against Demonic enemies by 5% of the engraved card.",
+        "description": "Temptation takes one by the hand. Darkness is its ultimate destination."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔魔性〕特攻効果を5%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "誘いは強くこの手を握る。\n行き着く先は闇の中。"
+  },
+  {
+    "id": 8400050,
+    "collectionNo": 5,
+    "name": "Code: Nimbus",
+    "rarity": 1,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400050": "https://static.atlasacademy.io/JP/CommandGraph/8400050a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400050": "https://static.atlasacademy.io/JP/CommandCodes/c_8400050.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991376,
+      "name": "Code: Nimbus",
+      "ruby": "こーど：にんばす",
+      "detail": {
+        "skill": "Increases damage against Divine enemies by 5% of the engraved card.",
+        "description": "O light of the heavens, rain down upon me as I am anointed with your blessing."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔神性〕特攻効果を5%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "天の光よ遍く我に降り注げ。\n祝福の彩に包まれるが如く。"
+  },
+  {
+    "id": 8400060,
+    "collectionNo": 6,
+    "name": "Code: Bless",
+    "rarity": 2,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400060": "https://static.atlasacademy.io/JP/CommandGraph/8400060a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400060": "https://static.atlasacademy.io/JP/CommandCodes/c_8400060.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991377,
+      "name": "Code: Bless",
+      "ruby": "こーど：ぶれす",
+      "detail": {
+        "skill": "Recovers 100 HP when attacking using the engraved card.",
+        "description": "Give thanks to the gentle rain. Be grateful for the water's soothing touch."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身のHPを100回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "慈しみの雨に感謝を。\n水の癒しに満たされる。"
+  },
+  {
+    "id": 8400070,
+    "collectionNo": 7,
+    "name": "Code: Glitter",
+    "rarity": 2,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400070": "https://static.atlasacademy.io/JP/CommandGraph/8400070a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400070": "https://static.atlasacademy.io/JP/CommandCodes/c_8400070.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991379,
+      "name": "Code: Glitter",
+      "ruby": "こーど：ぐりったー",
+      "detail": {
+        "skill": "Increases critical star generation rate by 20% of the engraved card.",
+        "description": "A bountiful harvest leads to blessings. Dazzling, glittering...as you wish."
+      },
+      "unmodifiedDetail": "刻印されたカードのスター発生率を20%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00604.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "実り結びて恵みとなる。\n眩き煌き望むがままに。"
+  },
+  {
+    "id": 8400080,
+    "collectionNo": 8,
+    "name": "Code: Burst",
+    "rarity": 2,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400080": "https://static.atlasacademy.io/JP/CommandGraph/8400080a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400080": "https://static.atlasacademy.io/JP/CommandCodes/c_8400080.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991380,
+      "name": "Code: Burst",
+      "ruby": "こーど：ばーすと",
+      "detail": {
+        "skill": "Increases critical damage by 3% of the engraved card.",
+        "description": "To begin, stand resolute. Take aim and bring it down."
+      },
+      "unmodifiedDetail": "刻印されたカードのクリティカル威力を3%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "仕掛けるときは潔く。\n狙いを定め打ち砕く。"
+  },
+  {
+    "id": 8400090,
+    "collectionNo": 9,
+    "name": "Code: Focus",
+    "rarity": 2,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400090": "https://static.atlasacademy.io/JP/CommandGraph/8400090a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400090": "https://static.atlasacademy.io/JP/CommandCodes/c_8400090.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991381,
+      "name": "Code: Focus",
+      "ruby": "こーど：ふぉーかす",
+      "detail": {
+        "skill": "Increases critical star absorption by 25% of the engraved card.",
+        "description": "Come, gather around. Brilliance is at your fingertips."
+      },
+      "unmodifiedDetail": "刻印されたカードのスター集中度を25%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "寄って集まり密になる。\n瞬き輝き思いのままに。"
+  },
+  {
+    "id": 8400100,
+    "collectionNo": 10,
+    "name": "Code: Cure",
+    "rarity": 2,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400100": "https://static.atlasacademy.io/JP/CommandGraph/8400100a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400100": "https://static.atlasacademy.io/JP/CommandCodes/c_8400100.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991382,
+      "name": "Code: Cure",
+      "ruby": "こーど：きゅあー",
+      "detail": {
+        "skill": "Removes one Ailment Debuff when attacking using the engraved card.\n({{Ailment Debuffs}})",
+        "description": "The shackles have fallen away, along with all peace of mind."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身の毒・呪い・やけど状態を1つ解除",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "軛は解かれ放たれる。\n健やかな安らぎと共に。"
+  },
+  {
+    "id": 8400110,
+    "collectionNo": 11,
+    "name": "Lucky Beast",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400110": "https://static.atlasacademy.io/JP/CommandGraph/8400110a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400110": "https://static.atlasacademy.io/JP/CommandCodes/c_8400110.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991384,
+      "name": "Lucky Beast",
+      "ruby": "らっきーびーすと",
+      "detail": {
+        "skill": "Recovers 200 HP when attacking using the engraved card.",
+        "description": "\"Fou! Foufoufooou!!!\" (Translation: Put me on a Command Card of your choice!)"
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身のHPを200回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "BLACK",
+    "comment": "「フォウ！　フォウフォウフォーウ！！」\n（好きなコマンドカードにボクをつけてね！）"
+  },
+  {
+    "id": 8400140,
+    "collectionNo": 12,
+    "name": "Crest of Humanity",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400140": "https://static.atlasacademy.io/JP/CommandGraph/8400140a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400140": "https://static.atlasacademy.io/JP/CommandCodes/c_8400140.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991441,
+      "name": "Crest of Humanity",
+      "ruby": "じんりのもんしょう",
+      "detail": {
+        "skill": "Increases critical star generation rate of the engraved card by 30%.",
+        "description": "Chaldea, the Security Organization for the Preservation of Humanity. We safeguard the future of mankind. Our wish is for the path we take to be the right one."
+      },
+      "unmodifiedDetail": "刻印されたカードのスター発生率を30%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00604.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "人理継続保障機関　カルデア。\n人類の行く先に安心を。\n我々の辿り着く場所に、どうか間違いがないように。"
+  },
+  {
+    "id": 8400130,
+    "collectionNo": 13,
+    "name": "Armament of Victory",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400130": "https://static.atlasacademy.io/JP/CommandGraph/8400130a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400130": "https://static.atlasacademy.io/JP/CommandCodes/c_8400130.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991442,
+      "name": "Armament of Victory",
+      "ruby": "しょうりのへいそう",
+      "detail": {
+        "skill": "Increases critical star absorption by 100% of the engraved card.",
+        "description": "Its name means the sword that grants victory. It's said that the light it emits contains the people's wishes."
+      },
+      "unmodifiedDetail": "刻印されたカードのスター集中度を100%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "その名に勝利を冠する剣。\n纏う光には人々の想いが込められているという。"
+  },
+  {
+    "id": 8400120,
+    "collectionNo": 14,
+    "name": "First Servant",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400120": "https://static.atlasacademy.io/JP/CommandGraph/8400120a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400120": "https://static.atlasacademy.io/JP/CommandCodes/c_8400120.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991443,
+      "name": "First Servant",
+      "ruby": "ふぁーすとさーゔぁんと",
+      "detail": {
+        "skill": "Grants self  Damage Cut by 300 for 1 time, 1 turn when attacking using the engraved card.",
+        "description": "\"So this is the new Servant support spell...a Command Code. It's wonderful, Senpai! Putting it on a Command Card will enable a variety of effects!\""
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身に被ダメージを300カットする状態(1回・1ターン)を付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00400.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Satoshi Watabe (DELiGHTWORKS)",
+    "comment": "「これが新しいサーヴァント援護術式、\n　『指令紋章』……凄いですね、先輩！\n　コマンドカードに張り付ければ\n　様々な効果が発揮される、とのことです！」"
+  },
+  {
+    "id": 8400150,
+    "collectionNo": 15,
+    "name": "Red Gem Lady's Command Seal",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400150": "https://static.atlasacademy.io/JP/CommandGraph/8400150a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400150": "https://static.atlasacademy.io/JP/CommandCodes/c_8400150.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991452,
+      "name": "Red Gem Lady's Command Seal",
+      "ruby": "あかきほうせきじょうのれいいん",
+      "detail": {
+        "skill": "Increases critical damage by 10% of the engraved card.",
+        "description": "The magical seal mark of a certain Master. \n\nIt has the image of a gem that is filled with magical energy."
+      },
+      "unmodifiedDetail": "刻印されたカードのクリティカル威力を10%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "とあるマスターの令印。\n魔力を込めた宝石を模している。"
+  },
+  {
+    "id": 8400160,
+    "collectionNo": 16,
+    "name": "God-Binding Chain",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400160": "https://static.atlasacademy.io/JP/CommandGraph/8400160a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400160": "https://static.atlasacademy.io/JP/CommandCodes/c_8400160.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991453,
+      "name": "God-Binding Chain",
+      "ruby": "かみぬいのくさり",
+      "detail": {
+        "skill": "Increases damage against Divine enemies by 15% of the engraved card.",
+        "description": "A chain that was said to have once bound the Bull of Heaven. They say the greater the target's Divinity, the more constrictive the chain becomes."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔神性〕特攻効果を15%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "かつて天の牡牛を捕縛した逸話のある鎖。\n対象の神性が高いほど硬度を増すという。"
+  },
+  {
+    "id": 8400170,
+    "collectionNo": 17,
+    "name": "Wedge of the Heavens",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400170": "https://static.atlasacademy.io/JP/CommandGraph/8400170a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400170": "https://static.atlasacademy.io/JP/CommandCodes/c_8400170.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991454,
+      "name": "Wedge of the Heavens",
+      "ruby": "てんのくさび",
+      "detail": {
+        "skill": "Increases damage against all Servants except Enuma Elish Nullification Servants by 20% of engraved card.",
+        "description": "\"Engravings are a symbol of power. It is only sensible to choose me as a symbol.\nMake use of this power as you like!\""
+      },
+      "unmodifiedDetail": "刻印されたカードに〔サーヴァント〕特攻効果を20%付与[特別な星の力を持つサーヴァントには特攻無効]",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Satoshi Watabe (DELiGHTWORKS)",
+    "comment": "「刻印とは力の在り方を示すもの。\n　我を象るは当然の選択よ。\n　この力、存分に揮うがいい……！」"
+  },
+  {
+    "id": 8400180,
+    "collectionNo": 18,
+    "name": "White Vessel's Command Seal",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400180": "https://static.atlasacademy.io/JP/CommandGraph/8400180a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400180": "https://static.atlasacademy.io/JP/CommandCodes/c_8400180.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991515,
+      "name": "White Vessel's Command Seal",
+      "ruby": "しろきうつわのれいじゅ",
+      "detail": {
+        "skill": "Removes one Debuff when attacking using the engraved card.",
+        "description": "A certain Master's Command Seal.\n\nAn Imitation of a Small Vessel."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身の弱体状態を1つ解除",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "とあるマスターの令印。\n小さな器を模している。"
+  },
+  {
+    "id": 8400190,
+    "collectionNo": 19,
+    "name": "Dragon-Slayer's Sword",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400190": "https://static.atlasacademy.io/JP/CommandGraph/8400190a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400190": "https://static.atlasacademy.io/JP/CommandCodes/c_8400190.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991517,
+      "name": "Dragon-Slayer's Sword",
+      "ruby": "りゅうごろしのけん",
+      "detail": {
+        "skill": "Increases critical damage against Dragon enemies by 25% of the engraved card.",
+        "description": "A longsword of twilight infused with magical energy from the Age of Gods.\n\nIt can turn into a sacred sword or a demonic sword depending on its wielder."
+      },
+      "unmodifiedDetail": "刻印されたカードの〔竜〕に対するクリティカル威力を25%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "神代の魔力を秘める黄昏の大剣。\n手にした者によって聖剣にも魔剣にも成り得るという。"
+  },
+  {
+    "id": 8400200,
+    "collectionNo": 20,
+    "name": "Demonic Dragon of Twilight",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400200": "https://static.atlasacademy.io/JP/CommandGraph/8400200a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400200": "https://static.atlasacademy.io/JP/CommandCodes/c_8400200.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991518,
+      "name": "Demonic Dragon of Twilight",
+      "ruby": "たそがれのまりゅう",
+      "detail": {
+        "skill": "Increases damage against Dragon enemies by 20% of the engraved card.",
+        "description": "\"Master, I will entrust my back to you. In return, should you ever come against an obstacle, I will open the path for you with this blade.\""
+      },
+      "unmodifiedDetail": "刻印されたカードに〔竜〕特攻効果を20%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Satoshi Watabe (DELiGHTWORKS)",
+    "comment": "「マスター、我が背中はあなたに預けよう。\n　その代わり、あなたの行く手が閉ざされたとき、\n　この剣で切り拓いてみせる」"
+  },
+  {
+    "id": 8400210,
+    "collectionNo": 21,
+    "name": "Love Hunter",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400210": "https://static.atlasacademy.io/JP/CommandGraph/8400210a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400210": "https://static.atlasacademy.io/JP/CommandCodes/c_8400210.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991519,
+      "name": "Love Hunter",
+      "ruby": "あいのかりうど",
+      "detail": {
+        "skill": "Ignores Evasion when attacking using the engraved card.",
+        "description": "\"The legendary hunter of myth, and just an overall good-looking guy who's a big hit with the ladies.\n\n\nYep, that's me. Orion the superman.\n\nOther than the fact that I accidentally pierced the heart of a goddess, I'm the perfect love hunter...heh heh.\n\n\nSo don't hesitate to pair me with any of the cute Servant girls!\n\n\nOh, but that aside, don't waste your time looking up the meaning of my name, okay?\""
+      },
+      "unmodifiedDetail": "刻印されたカードに必中効果を付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00310.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "SHIMO AONO",
+    "comment": "「神話で語られる伝説の狩人であり、\n　数々のラブロマンスを経験したナイスガイ―――\n　それこそが俺。オリオン・ザ・スーパーマン。\n　うっかり女神の心を射止めちまった事以外は\n　完璧な愛の狩人さ……フフ。\n　さあ、可愛い女の子サーヴァントに\n　遠慮なく張ってくれ！\n\n　あ、それはそれとして、\n　名前の意味を調べるのはよくないですよ？」"
+  },
+  {
+    "id": 8400220,
+    "collectionNo": 22,
+    "name": "The Dark Disciple's Command Seal",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400220": "https://static.atlasacademy.io/JP/CommandGraph/8400220a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400220": "https://static.atlasacademy.io/JP/CommandCodes/c_8400220.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991563,
+      "name": "The Dark Disciple's Command Seal",
+      "ruby": "くろきしんとのれいいん",
+      "detail": {
+        "skill": "Removes one  Defense Up buff from enemy when attacking using the engraved card.",
+        "description": "A certain Master's magical seal. It bears an image of the martial arts power that dwells within the Master's body."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体の防御力アップ状態を1つ解除",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "とあるマスターの令印。\nその身に宿した体術、その源流を模している。"
+  },
+  {
+    "id": 8400230,
+    "collectionNo": 23,
+    "name": "Sword of Beginning and End",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400230": "https://static.atlasacademy.io/JP/CommandGraph/8400230a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400230": "https://static.atlasacademy.io/JP/CommandCodes/c_8400230.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991565,
+      "name": "Sword of Beginning and End",
+      "ruby": "はじまりとおわりのけん",
+      "detail": {
+        "skill": "Increases damage by 1000 of the engraved card.",
+        "description": "The sword mentioned in the story of the one who established the foundation of modern alchemy.\n\nParents and masters often offer it as a celebration of reaching adulthood."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃の与ダメージを1000増やす",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "近代錬金術の基礎を築いた人物の逸話に登場する剣。\n成人の儀において師や両親から贈られることが多い。"
+  },
+  {
+    "id": 8400240,
+    "collectionNo": 24,
+    "name": "The Holy Night's Aurora",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400240": "https://static.atlasacademy.io/JP/CommandGraph/8400240a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400240": "https://static.atlasacademy.io/JP/CommandCodes/c_8400240.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991568,
+      "name": "The Holy Night's Aurora",
+      "ruby": "せいやのきょっこう",
+      "detail": {
+        "skill": "Gains 4 critical stars when attacking using the engraved card.",
+        "description": "I will neither compromise nor make exceptions regarding the three rules for what makes a good children. Not even at Christmas.\n\n\nFirst, they must remain dignified when meeting Santa.\n\nSecond, they must reward Santa with their smiles.\n\nThird, they must send Santa off with gratitude.\n\n\nAnd one final thing: they must await next Christmas with hope.\n\n\nReindeer and I shall only visit those who can follow those rules. Our gifts may be random, but we will tolerate no complaints."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時にスターを4個獲得",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Nekotawawa",
+    "comment": "「クリスマスといえど私には妥協も寛容もない。\n　よい子の条件は三つ。\n\n　一つ、節度をもってサンタさんを迎える。\n　一つ、笑顔をもってサンタさんを労う。\n　一つ、感謝をもってサンタさんを送る。\n\n　そして最後にもう一つ。\n　希望を持って、来年のクリスマスを待つ。\n\n　これを守る者にのみ、\n　私とトナカイは舞い降りるだろう。\n　プレゼントはランダムだが苦情は言うな」"
+  },
+  {
+    "id": 8400250,
+    "collectionNo": 25,
+    "name": "Demonic Beast of the Forest",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400250": "https://static.atlasacademy.io/JP/CommandGraph/8400250a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400250": "https://static.atlasacademy.io/JP/CommandCodes/c_8400250.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991591,
+      "name": "Demonic Beast of the Forest",
+      "ruby": "しんいきのまじゅう",
+      "detail": {
+        "skill": "Inflicts  Curse with 500 damage for 3 turns to enemy when attacking using the engraved card.",
+        "description": "A giant demonic beast let loose into the wild thanks to the disrespect shown by a certain king.\n\nIts appearance is the embodiment of divine punishment from the moon goddess."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体に呪い状態(500ダメージ・3ターン)を付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00513.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "SHIMO AONO",
+    "comment": "とある王の不敬がきっかけで野に放たれた強大な魔獣。\nその姿はまさに、月の女神の神罰を体現している。"
+  },
+  {
+    "id": 8400260,
+    "collectionNo": 26,
+    "name": "Mirror of Eight Leaves",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400260": "https://static.atlasacademy.io/JP/CommandGraph/8400260a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400260": "https://static.atlasacademy.io/JP/CommandCodes/c_8400260.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991592,
+      "name": "Mirror of Eight Leaves",
+      "ruby": "はちようのかがみ",
+      "detail": {
+        "skill": "Grants self  Immobility Immunity for 1 time, 2 turns when attacking using the engraved card.\n({{Immobility Debuffs}})",
+        "description": "A truly divine treasure among treasures of the underworld, powerful enough to revive the dead.\n\nDue to its owner, its performance is limited to only a fraction of its full potential."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身に行動不能無効状態(1回・2ターン)を付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00411.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "本来は死者を黄泉より帰還させられるほどの\n力を持った、冥界の神宝中の神宝。\nだが、今の持ち主の下では、\nその性能はごく一部に限定されている。"
+  },
+  {
+    "id": 8400270,
+    "collectionNo": 27,
+    "name": "Good Wife, Wise Fox",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400270": "https://static.atlasacademy.io/JP/CommandGraph/8400270a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400270": "https://static.atlasacademy.io/JP/CommandCodes/c_8400270.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991593,
+      "name": "Good Wife, Wise Fox",
+      "ruby": "りょうさいけんこ",
+      "detail": {
+        "skill": "Grants self  Healing Received Up by 50% for 1 time, 2 turns when attacking using the engraved card.",
+        "description": "\"You've done a terrific job today☆ \n\nWould you like a meal first? Or would you like a bath first?\n\nOr perhaps you would like an e-v-e-n-t♡ \n\nAs your reliable fox shrine maiden, I will support you however I can, Master!\""
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身のHP回復量を50%アップ(1回・2ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00611.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "moryo",
+    "comment": "「今日も１日お疲れさまでした～☆\n　ごはんにします？　お風呂にします？\n　それとも……イ・ベ・ン・ト♡\n　貴方の頼れる巫女狐として、\n　お助けいたしますわ、マスター」"
+  },
+  {
+    "id": 8400280,
+    "collectionNo": 28,
+    "name": "The Disillusioned Blossom's Command Seal",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400280": "https://static.atlasacademy.io/JP/CommandGraph/8400280a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400280": "https://static.atlasacademy.io/JP/CommandCodes/c_8400280.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991602,
+      "name": "The Disillusioned Blossom's Command Seal",
+      "ruby": "うすあかききょぞうのれいいん",
+      "detail": {
+        "skill": "Removes one  Attack Up buff from enemy when attacking using the engraved card.\nRecovers 100 HP when attacking using the engraved card.",
+        "description": "The magical seal mark of a certain Master.\n\nIt bears the image of a flower that represents spring."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体の攻撃力アップ状態を1つ解除＋自身のHPを100回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Hayosena",
+    "comment": "とあるマスターの令印。\n春を象徴する花を模している。"
+  },
+  {
+    "id": 8400290,
+    "collectionNo": 29,
+    "name": "Dove Report",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400290": "https://static.atlasacademy.io/JP/CommandGraph/8400290a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400290": "https://static.atlasacademy.io/JP/CommandCodes/c_8400290.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991679,
+      "name": "Dove Report",
+      "ruby": "ぴじょんれぽーと",
+      "detail": {
+        "skill": "Removes one  Critical Damage Up buff from enemy when attacking using the engraved card.\nIf successfully removed the buff, inflicts  Critical Attack Chance Down debuff by 10% for 3 turns to them.",
+        "description": "A dark-coated dove that lives in the floating garden. They work as messengers reporting about various occurrences during the season of love.\n\nThough they are familiars, they sometimes reveal the secrets of their own master. Coo-coo-poh."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体のクリティカル威力アップ状態を1つ解除＆解除成功時、クリティカル発生率を10%ダウン(3ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Hayosena",
+    "comment": "空を浮遊する庭園に住まう黒衣の鳩。\n恋の季節には人々の営みを伝聞する役割を持ち、\n使い魔のくせに時に主人の秘密を人々に打ち明けることもある。くるっぽー。"
+  },
+  {
+    "id": 8400300,
+    "collectionNo": 30,
+    "name": "Star-Severing Evil Sacred Sword",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400300": "https://static.atlasacademy.io/JP/CommandGraph/8400300a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400300": "https://static.atlasacademy.io/JP/CommandCodes/c_8400300.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991681,
+      "name": "Star-Severing Evil Sacred Sword",
+      "ruby": "ほしだちのじゃせいけん",
+      "detail": {
+        "skill": "Increases critical damage against Saber enemies by 25% of the engraved card.",
+        "description": "The sword of darkness said to slice through even five-star rated ☆s. Whether this is true or not is unclear, but through the guidance of Alternium, the sword became the ultimate final weapon for the Dark R.O.U.N.D.S. that possesses incredible power.\n\n\nAlso, it can be purchased online, but rumors of this sword being a favorite of a cute, mysterious literature aficionado knight circulated, causing the sword to sell for a premium."
+      },
+      "unmodifiedDetail": "刻印されたカードの〔セイバー〕クラスに対するクリティカル威力を25%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "五つ星評価の☆をも断つという暗黒の剣。\nその真偽の程は定かではないが、オルタニウムの導きにより、ダーク・ラウンズの最終兵器に渡った剣は、凄まじいまでの威力を発揮する。\n\nちなみに通販で購入可能だったが、謎の文学美少女騎士が愛用しているという噂が広まり、プレミアがついてしまった。"
+  },
+  {
+    "id": 8400310,
+    "collectionNo": 31,
+    "name": "Bride of the White Rose",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400310": "https://static.atlasacademy.io/JP/CommandGraph/8400310a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400310": "https://static.atlasacademy.io/JP/CommandCodes/c_8400310.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991724,
+      "name": "Bride of the White Rose",
+      "ruby": "しろばらのはなよめ",
+      "detail": {
+        "skill": "Recovers party's HP by 200 when attacking using the engraved card.",
+        "description": "If you want to take the supreme sword that is I in marriage, then your sheath must be the very best.\n\nAlthough it could be described as \"the best\" in one word, there are actually an uncountable myriad of \"good points\" about it. \n\nOh my Master, don't be hesitant to talk about your own dreams. \n\nWield me to make your dreams come true. \n\nHm, my love is even hotter than a dragon's breath. \n\nMake your resolution firm... And keep me within your arms!"
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、味方全体のHPを200回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Inako",
+    "comment": "「余という至高の剣を娶るならば、\n　その鞘も最上のものでなくてはならぬ。\n　とはいえ一言に最上といっても実際は千差万別、\n　様々な“得意”があるもの。\n　我がマスターよ、\n　臆する事なく自らの夢を語るがよい。\n　余はその夢を叶える為に振るわれるもの。\n　ふ、余の愛は竜の吐息よりも尚熱い。\n　しかと覚悟して―――その腕の内に収めるがよい！」"
+  },
+  {
+    "id": 8400320,
+    "collectionNo": 32,
+    "name": "BB Slots",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400320": "https://static.atlasacademy.io/JP/CommandGraph/8400320a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400320": "https://static.atlasacademy.io/JP/CommandCodes/c_8400320.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991685,
+      "name": "BB Slots",
+      "ruby": "びーびーすろっと",
+      "detail": {
+        "skill": "Grants one random effect from these 3 effects when attacking using the engraved card.\n Gain 5 critical stars.\n Recovers own HP by 500.\n Increases debuff resistance by 10% for 1 turn.",
+        "description": "Whether one is powerful or weak...\n\nLucky or unlucky...\n\nEveryone is treated equally.\n\n\nThe slot machine the little devil made...\n\n\n...may just be the Cute but Curse-happy girl's Clumsy way of expressing her love.\n\nJust maybe..."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、ランダムで様々な効果を発動<スターを5個獲得または自身のHPを500回復または自身の弱体耐性を10%アップ(1ターン)>",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00001.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "力の強き者も弱き者も、\n運の良い者も悪い者も、\n扱いは等しく、公平に。\n\nそんな小悪魔の作ったルーレットは―――\n\n可愛い（Cute）けれど\nはた迷惑な（Cursed）少女の\n―――不器用な（Clumsy）愛情表現、かもしれない。"
+  },
+  {
+    "id": 8400330,
+    "collectionNo": 33,
+    "name": "Coffin of the Fall",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400330": "https://static.atlasacademy.io/JP/CommandGraph/8400330a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400330": "https://static.atlasacademy.io/JP/CommandCodes/c_8400330.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991730,
+      "name": "Coffin of the Fall",
+      "ruby": "しつらくのひつぎ",
+      "detail": {
+        "skill": "Removes one  Debuff Immunity buff from enemy when attacking using the engraved card.\nIncreases critical damage against enemies with Good Alignment by 20% of the engraved card.",
+        "description": "A coffin bearing the name of a waterfall...the conflict between a detective and a mastermind."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体の弱体無効状態を1つ解除 ＋ 刻印されたカードの〔善〕特性に対するクリティカル威力を20%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Hayosena",
+    "comment": "一人の探偵と、一人の黒幕との因縁。\nそれを飲み込んだ瀑布の名を冠す棺。"
+  },
+  {
+    "id": 8400340,
+    "collectionNo": 34,
+    "name": "Faint Black Delusion's Command Seal",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400340": "https://static.atlasacademy.io/JP/CommandGraph/8400340a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400340": "https://static.atlasacademy.io/JP/CommandCodes/c_8400340.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991748,
+      "name": "Faint Black Delusion's Command Seal",
+      "ruby": "ほのくろきもうしゅうのれいいん",
+      "detail": {
+        "skill": "Inflicts  Poison with 600 damage for 3 turns to enemy when attacking using the engraved card.\nDeals 100 damage without killing to self. ''[Demerit]''",
+        "description": "The command seal of a certain Master.\n\nIt bears the image of a man's emotional torment by others' scheming."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体に毒状態(600ダメージ・3ターン)を付与＋自身のHPを100減らす(最低1残す)【デメリット】",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00510.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "とあるマスターの令印。\n数多の思惑に翻弄され懊悩する男の情念を模している。"
+  },
+  {
+    "id": 8400350,
+    "collectionNo": 35,
+    "name": "Spear of Love, Action, and Wisdom",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400350": "https://static.atlasacademy.io/JP/CommandGraph/8400350a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400350": "https://static.atlasacademy.io/JP/CommandCodes/c_8400350.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991750,
+      "name": "Spear of Love, Action, and Wisdom",
+      "ruby": "あいとこうどうとちえのやり",
+      "detail": {
+        "skill": "Gains 2 critical stars when attacking using the engraved card.\nIncreases damage against enemies with  Charm debuff by 20% of the engraved card.",
+        "description": "A spear with each tip imbued with the power of the God of Creation and Destruction. As the wife of the spear's original owner currently possesses it, the weapon is not as powerful as it would be were the original owner wielding it. Even so, it's still a Noble Phantasm wielded by a goddess, and so is designated as EX rank."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時にスターを2個獲得 ＋ 刻印されたカードに〔魅了〕状態特攻効果を20%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Hayosena",
+    "comment": "三叉の先、それぞれに創造と破壊の神の力を宿した槍。\n今はその妻が借り受けたものであるが故、\n本来の持ち主が振るうほどの威力は持たない。\n\nとはいえ、女神の振るう宝具であるという事実に変わりはなく、そのランクはＥＸに位置付けられる。"
+  },
+  {
+    "id": 8400360,
+    "collectionNo": 36,
+    "name": "The Nun with a Bodhisattva's Merciful Gaze",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400360": "https://static.atlasacademy.io/JP/CommandGraph/8400360a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400360": "https://static.atlasacademy.io/JP/CommandCodes/c_8400360.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991752,
+      "name": "The Nun with a Bodhisattva's Merciful Gaze",
+      "ruby": "じがんおんようのにそう",
+      "detail": {
+        "skill": "Increases damage against enemies with Lawful Alignment by 20% of the engraved card.\nIncreases damage against Ruler enemies by 20% of the engraved card.",
+        "description": "\"Tell me all your suffering, your joy...tell me everything in detail.\n\n\nThere are no creatures that these hands cannot embrace,\n\nNo lament that these hands cannot lift up,\n\nAnd all types of desires are equally honored...\n\n\nNow come, pour your heart out to me...\"\n\n\nEnlightenment and Nirvana are hers to command.\n\nYour final destination is the paradise that is Sessyoin."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔秩序〕特攻効果を20%付与＆〔ルーラー〕特攻効果を20%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Azusa",
+    "comment": "「貴方さまの苦しみを、喜びを、\n　どうかつまびらかにお打ち明け下さいませ。\n\n　この手に包めぬ衆生はなく、\n　この手に掬えぬ慟哭もなし\n　そして、あらゆる欲望に貴賤なく―――\n\n　さあ、どうか存分に、私に心の裡へ―――」\n\n　大悟も解脱もその指一つで随喜自在。\n　行き着く先は殺生院、顎の如き天上楽土。"
+  },
+  {
+    "id": 8400370,
+    "collectionNo": 37,
+    "name": "The Crimson-Hearted Liege's Command Seal",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400370": "https://static.atlasacademy.io/JP/CommandGraph/8400370a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400370": "https://static.atlasacademy.io/JP/CommandCodes/c_8400370.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991793,
+      "name": "The Crimson-Hearted Liege's Command Seal",
+      "ruby": "こころあかきしんかのれいいん",
+      "detail": {
+        "skill": "When engraved on Buster card, increases critical damage by 15% of the engraved card.",
+        "description": "A certain master's command seal. It bears the image of a great king's cloak, whom the Master once served."
+      },
+      "unmodifiedDetail": "Busterカードに刻印時のみ、刻印されたカードのクリティカル威力を15%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "とあるマスターの令印。\n彼が仕えた偉大な王の外套を模している。"
+  },
+  {
+    "id": 8400380,
+    "collectionNo": 38,
+    "name": "Spiritual Cube",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400380": "https://static.atlasacademy.io/JP/CommandGraph/8400380a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400380": "https://static.atlasacademy.io/JP/CommandCodes/c_8400380.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991795,
+      "name": "Spiritual Cube",
+      "ruby": "むけいのはこ",
+      "detail": {
+        "skill": "Increases damage against Undead enemies by 15% of the engraved card.",
+        "description": "An extremely rare talking Mystic Code capable of transforming into various shapes as needed.\n\n\nIt is exceptionally rude, and so is often chastised by its owner.\n\n\nEven so, it has remained by the ashen-colored girl's side since her childhood...\n\n\nHe is an irreplaceable friend to her."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔死霊〕特攻効果を15%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Hayosena",
+    "comment": "目的に応じ多彩な形態変化を可能とする\n非常に稀有な喋る礼装。\n\nその口調は毒舌を極め\n持ち主からはよく折檻されているが\nそれでも灰色の少女にとっては幼少期からそばにいる\n\n―――かけがえのない友のような存在だという。\n"
+  },
+  {
+    "id": 8400390,
+    "collectionNo": 39,
+    "name": "Da Vinci",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400390": "https://static.atlasacademy.io/JP/CommandGraph/8400390a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400390": "https://static.atlasacademy.io/JP/CommandCodes/c_8400390.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991797,
+      "name": "Da Vinci",
+      "ruby": "だ・ヴぃんちちゃん",
+      "detail": {
+        "skill": "Grants self  NP Damage Up by 15% for 1 turn when attacking using the engraved card.",
+        "description": "People call me universal, but that's nothing special. Everything I did resulted from my ceaseless studies. That means you have the capacity to make your own potential blossom as well. Being a genius is just what results from that. It's a title that can only be given by those around us.\n\n\nThat's exactly why I think you'll become worthy of it someday. And so I can shout this to the heavens with utmost confidence:\n\n\n\"Uomo Universale!\""
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身の宝具威力を15%アップ(1ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Sumisu",
+    "comment": "「人は私のことを万能という。\n　だがそれはなにも特別なことじゃないんだ。\n　すべては学び続けたゆえのこと。\n　それはつまり、キミもまたその可能性を、才能を、\n　花開かせることができる存在ということさ。\n　天才とは結果だ。\n　周囲がそう定義することで得られる称号だ。\n\n　でもね、だからこそ、\n　その鑑定に値する人物であろうと覚悟し、\n　私は胸を張ってこう叫ぶのさ！\n\n　―――“ウォモ・ウニヴェルサーレ”！」"
+  },
+  {
+    "id": 8400400,
+    "collectionNo": 40,
+    "name": "The Inexperienced Fantasy's Command Seal ",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400400": "https://static.atlasacademy.io/JP/CommandGraph/8400400a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400400": "https://static.atlasacademy.io/JP/CommandCodes/c_8400400.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991843,
+      "name": "The Inexperienced Fantasy's Command Seal ",
+      "ruby": "まだあおきげんそうのれいいん",
+      "detail": {
+        "skill": "When engraved on Arts card, increases critical star absorption by 100% of the engraved card.",
+        "description": "The command seal of a certain Master.\n\nIt bears the image of a school uniform worn by a girl born from the wishes of the people.\n"
+      },
+      "unmodifiedDetail": "Artsカードに刻印時のみ、刻印されたカードのスター集中度を100%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00309.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Hayosena",
+    "comment": "とあるマスターの令印。\n人々の願いによって生まれた少女が着用した制服を模している。"
+  },
+  {
+    "id": 8400410,
+    "collectionNo": 41,
+    "name": "Fine Sword",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400410": "https://static.atlasacademy.io/JP/CommandGraph/8400410a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400410": "https://static.atlasacademy.io/JP/CommandCodes/c_8400410.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991844,
+      "name": "Fine Sword",
+      "ruby": "ほそみづくりのめいとう",
+      "detail": {
+        "skill": "Ignores Invincibility when attacking using the engraved card.",
+        "description": "An ancient sword adorned with double-flowered cherry blossom petals. Its blade is said to be beautiful, as if glistening with dew.\n\n\nThe word \"ichi\" is inscribed upon the blade to indicate the swordsmith's sect, and the crest of a chrysanthemum, said to represent perennial youth and longevity, is also etched into the steel.\n\n\nIronically, the swordsman who used and cherished this blade died of a dreadful illness at a young age."
+      },
+      "unmodifiedDetail": "刻印されたカードに無敵貫通効果を付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00312.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "乱れに八重桜の花弁がならび、その身は露をふくませたかのように美しかったとされる古刀。\n\n刀工の派を示す『一』を銘に入れ、かつ不老長寿を象徴する菊花の紋が彫られたが―――\n\nこれを愛刀とした剣士は皮肉にも、若くして病でその生涯の幕を閉じたという。"
+  },
+  {
+    "id": 8400420,
+    "collectionNo": 42,
+    "name": "The Great Fool of Owari",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400420": "https://static.atlasacademy.io/JP/CommandGraph/8400420a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400420": "https://static.atlasacademy.io/JP/CommandCodes/c_8400420.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991845,
+      "name": "The Great Fool of Owari",
+      "ruby": "おわりのおおうつけ",
+      "detail": {
+        "skill": "Increases critical damage against Divine enemies by 30% of the engraved card.",
+        "description": "\"A human life spans but fifty years; set against life in the heavens, it is but a dream...an illusion.\n\n\nThere you have it. This encompasses everything that is destined to perish, and even though I perished within the roaring flame, some twist of fate, or maybe even karma, has led to me getting drawn into an event like this.\n\n\nDon't fret. I can't help it if the times cry out for me. Time to destroy all three realms of existence.\n\n\nFor I am Oda Nobunaga, the Demon King of the Sixth Heaven!\""
+      },
+      "unmodifiedDetail": "刻印されたカードの〔神性〕に対するクリティカル威力を30%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Namie",
+    "comment": "「人間五十年　下天の内をくらぶれば　夢幻の如くなり\n\n　とまあ、滅せぬもののあるべきかというわけで\n　紅蓮の焔に消えたわしではあるが、\n　何の因果か、はたまた業か、\n　斯様な仕儀にかかずらう事になるとはのう。\n　\n　なに、時代がわしを望むというのなら是非もなし。\n　いざ、三界神仏灰燼と帰せ。\n\n　―――我こそは、 第六天魔王波旬、織田信長！」"
+  },
+  {
+    "id": 8400430,
+    "collectionNo": 43,
+    "name": "Crest of the Stone Bird",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400430": "https://static.atlasacademy.io/JP/CommandGraph/8400430a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400430": "https://static.atlasacademy.io/JP/CommandCodes/c_8400430.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 962910,
+      "name": "Crest of the Stone Bird",
+      "ruby": "いしのとりのもんしょう",
+      "detail": {
+        "skill": "Increases party's critical damage by 5% (1 time, 1 turn) of the engraved card.",
+        "description": "The crest of a certain prestigious magecraft family who carry themselves with an unyielding resolve, a heart that never surrenders, and a spirit that is never discouraged.\n\n\nWhile a shadow has been cast over the family's growth, the bonds it has formed may one day allow the stone bird to rise like a phoenix."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、味方全体のクリティカル威力を5%アップ(1回・1ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "不屈の精神と諦めない心、そしてくじけない魂を持つ、\nとある名門魔術師一族の紋章。\n\n魔術師の家系としてその発展に翳りが見えるが、\n彼らが培った“それ以外の絆”が、\n石の鳥を炎に変える時が来るのかもしれない。"
+  },
+  {
+    "id": 8400440,
+    "collectionNo": 44,
+    "name": "Ukiyoctopus",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400440": "https://static.atlasacademy.io/JP/CommandGraph/8400440a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400440": "https://static.atlasacademy.io/JP/CommandCodes/c_8400440.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991870,
+      "name": "Ukiyoctopus",
+      "ruby": "うきよだこ",
+      "detail": {
+        "skill": "When attacking with the engraved card, removes one  NP Damage Up buff from enemy.\nIf successfully removed, inflicts  Arts Resistance Down by 10% for 3 turns to them.",
+        "description": "An endearing yet frightful and mysterious octopus.\n\nIn truth, it is the great ukiyo-e painter who influenced many artists around the world.\n\n\nThe reason he turned out like that was due to some power from beyond space he encountered in his pursuit to become the \"true artist.\" Or perhaps it was something else...\n\n\nEither way, if it means that he could reach the truth, changing into this form is probably a mere triviality."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体の宝具威力アップ状態を1つ解除＆解除成功時、Arts攻撃に対する防御力を10%ダウン(3ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Rena Kamekichi",
+    "comment": "愛らしくもはなはだ面妖な蛸。\nしかしてその正体は、\n世界中の芸術家に影響を与えたほどの偉大な浮世絵師。\n\nこのような姿になってしまったのは\n『真正の画工』になることを追求するあまり\n思いがけず相対した宇宙の向こう側の影響か、\nはたまた……\n\nともあれ、真に迫れるのであれば、\n彼にとっては些末なことなのかもしれない。"
+  },
+  {
+    "id": 8400450,
+    "collectionNo": 45,
+    "name": "Brush of a Mad Painter",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400450": "https://static.atlasacademy.io/JP/CommandGraph/8400450a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400450": "https://static.atlasacademy.io/JP/CommandCodes/c_8400450.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991872,
+      "name": "Brush of a Mad Painter",
+      "ruby": "がきょうのおおふで",
+      "detail": {
+        "skill": "When engraved on Arts card, increases critical damage by 20% of the engraved card.",
+        "description": "The extraordinary artist's giant brush.\n\nIt's as long as a person is tall, but no theme or subject material is too extreme once the brush is taken up.\n\n\nYet if the brush is wielded by someone who is not as talented, or if they are of sound mind, the resulting work will hardly graze the realm of the gods.\n\nShould that be the case...\n\n\nThe only choice would be to obsess over painting like a madman."
+      },
+      "unmodifiedDetail": "Artsカードに刻印時のみ、刻印されたカードのクリティカル威力を20%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "稀代の画工の大筆。\nその大きさは身の丈ほどあれど、\nひとたび揮われたならば千種万象、題材を選ばない。\n\nしかし生半可な腕、正気の沙汰で操ったところで\n到底、神懸かりの域に漂着すらできない。\nそれはもういっそ―――\n\n狂うほどの画への執着がなければ。"
+  },
+  {
+    "id": 8400460,
+    "collectionNo": 46,
+    "name": "Mage of Flowers",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400460": "https://static.atlasacademy.io/JP/CommandGraph/8400460a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400460": "https://static.atlasacademy.io/JP/CommandCodes/c_8400460.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991873,
+      "name": "Mage of Flowers",
+      "ruby": "はなのまじゅつし",
+      "detail": {
+        "skill": "Can only use once every 3 turns, charges own NP gauge by 10% when attacking using the engraved card.",
+        "description": "\"Oh, you need my help? Very well, very well.\n\nI'll be sure to help if such a request is made.\n\nI may not be able to defeat enemies or solve tricky problems on my own, but I will not hold back if it's for the sake of my loving friends.\nWhy?\n\nBecause it quenches the thirst in life, and it would benefit me in so many ways.\n\n\nIsn't that what life's all about?\""
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身のNPを10%増やす(1度使用すると再使用に3ターン必要)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+      "coolDown": [
+        3
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Fuyuomi",
+    "comment": "「おや、私の助けが必要かい？　いいともいいとも。\n　なんであれ助けを請われたのなら手伝おう。\n　自分では敵も倒さなければ厄介ごとも解決しないが、\n　親愛なる友のためなら加減はなしだ。\n　なぜって？\n　それが人々の生活の潤いになり、\n　私の色々な実益に繋がるからね。\n\n　ほら。人生って、そういうものだろ？」"
+  },
+  {
+    "id": 8400470,
+    "collectionNo": 47,
+    "name": "Your Faithful Sheep",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400470": "https://static.atlasacademy.io/JP/CommandGraph/8400470a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400470": "https://static.atlasacademy.io/JP/CommandCodes/c_8400470.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991940,
+      "name": "Your Faithful Sheep",
+      "ruby": "あなたのちゅうじつなるひつじ",
+      "detail": {
+        "skill": "Removes one Ailment Debuff when attacking using the engraved card.\nRecovers 100 HP when attacking using the engraved card.\n({{Ailment Debuffs}})",
+        "description": "The shepherd god of the harvest and spouse of a certain goddess of Venus.\n\n\nHe speaks gently. He's painfully adorable. But...take all that with a big grain of salt. Sure, he may speak lovingly and appear serious, but he's still a god, so at times his behavior will be utterly incomprehensible to humans."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身の毒・呪い・やけど状態を1つ解除＆HPを100回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Rena Kamekichi",
+    "comment": "とある金星の女神の夫であり、豊穣を司る牧羊の主。\n\n口調は丁寧で愛らしい姿をしているが、その言動と行動には注意を払わなくてはいけない。\n親愛に満ちた言葉、真摯な態度ではあるが、精神的視点は神そのものであるため、人間の常識では読み取れないところがあるからだ。"
+  },
+  {
+    "id": 8400480,
+    "collectionNo": 48,
+    "name": "Law of Creation",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400480": "https://static.atlasacademy.io/JP/CommandGraph/8400480a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400480": "https://static.atlasacademy.io/JP/CommandCodes/c_8400480.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991942,
+      "name": "Law of Creation",
+      "ruby": "かいびゃくのことわり",
+      "detail": {
+        "skill": "Removes one  Defense Up buff from enemy when attacking using the engraved card.\nIncreases critical damage by 10% of the engraved card.",
+        "description": "The most mystifying treasure among the countless relics from the King of Heroes' collection.\n\n\nThe three stone tablets on the blade each symbolize heaven, earth, and the underworld... As such, it is said to represent the universe and so affects not only the bodies of those it faces, but the entire world itself.\n\n\nIt's the strongest and oldest Noble Phantasm man has ever laid its hands on."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体の防御力アップ状態を1つ解除 ＋ 刻印されたカードのクリティカル威力を10%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "英雄王が数多持つ財宝の最秘奥。\n\n刀身部分の三つの石板はそれぞれ天・地・冥界を意味し、すなわち宇宙を表しているともいえ、その影響力は対峙する者の五体どころか世界そのものに及ぶ。\n\n人という種が手にした最強最古の宝具である。"
+  },
+  {
+    "id": 8400490,
+    "collectionNo": 49,
+    "name": "Chain of the Heavens",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400490": "https://static.atlasacademy.io/JP/CommandGraph/8400490a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400490": "https://static.atlasacademy.io/JP/CommandCodes/c_8400490.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991944,
+      "name": "Chain of the Heavens",
+      "ruby": "てんのくさり",
+      "detail": {
+        "skill": "Increases damage against Divine enemies by 20% of the engraved card.",
+        "description": "\"I am a weapon, an armament.\n\nSo use me as you will.\n\nYou need not worry or hold back.\n\nAfter all, I resolved to live among humans the moment I turned my back on the gods who created me.\""
+      },
+      "unmodifiedDetail": "刻印されたカードに〔神性〕特攻効果を20%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Mo",
+    "comment": "「僕は一個の武器であり兵器だ。\n　だからどうか思う存分に使って欲しい。\n　気遣いはしなくていい。\n　自身を作り出した神の命令に背いたあの時から、\n　僕は人と共に在ると決めたわけだからね」"
+  },
+  {
+    "id": 8400500,
+    "collectionNo": 50,
+    "name": "The Bearded Scarlet Gentleman's Command Seal",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400500": "https://static.atlasacademy.io/JP/CommandGraph/8400500a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400500": "https://static.atlasacademy.io/JP/CommandCodes/c_8400500.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991970,
+      "name": "The Bearded Scarlet Gentleman's Command Seal",
+      "ruby": "あかきひげしんしのれいいん",
+      "detail": {
+        "skill": "Inflicts  Burn with 500 damage for 3 turns to enemy when attacking using the engraved card.",
+        "description": "The command seal of a certain Master.\n\nIt belongs to the head of a family of mages from a remote land.\n\nThe family's talents were acknowledged by the nobles despite its shallow history, but it's as good as bankrupt now."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体にやけど状態(500ダメージ・3ターン)を付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00511.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Rena Kamekichi",
+    "comment": "とあるマスターの令印。\n辺境の魔術師一族の当主のもの。\n歴史は浅いながらも貴族たちにその秀才を\n認められたが、今は没落して久しい。"
+  },
+  {
+    "id": 8400510,
+    "collectionNo": 51,
+    "name": "Balance Scale of the Universe",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400510": "https://static.atlasacademy.io/JP/CommandGraph/8400510a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400510": "https://static.atlasacademy.io/JP/CommandCodes/c_8400510.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991972,
+      "name": "Balance Scale of the Universe",
+      "ruby": "うちゅうのてんびん",
+      "detail": {
+        "skill": "Increases damage against Threat to Humanity enemies by 10% of the engraved card.\nIncreases damage against Saber enemies by 10% of the engraved card.",
+        "description": "The double-headed sacred spear said to represent the farthest parts of the universe.\n\nIt's the oldest artifact in the galaxy, once concealed within the center of a secret society, the Galactic Police, it has now coincidentally fallen into the hands of a young woman.\n\n\nIts radiant light is powerful enough to destroy even the galactic nebula, said to annihilate all, be it good or evil."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔人類の脅威〕特攻効果を10%付与＆〔セイバー〕特攻効果を10%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Akita Inu",
+    "comment": "宇宙の最果てを示す階とされる双頭の聖槍。\n秘密結社・銀河警察の中枢で眠っていたが\n偶然ある少女の手に渡ることとなった、\n宇宙における最古のアーティファクト。\n\n銀河星雲すらも断ち切るといわれるその光芒は、\n善も悪も一切の区別なく、\nすべて薙ぎ払ってしまうという。"
+  },
+  {
+    "id": 8400520,
+    "collectionNo": 52,
+    "name": "Mistress of the Heavens",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400520": "https://static.atlasacademy.io/JP/CommandGraph/8400520a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400520": "https://static.atlasacademy.io/JP/CommandCodes/c_8400520.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991973,
+      "name": "Mistress of the Heavens",
+      "ruby": "てんのおんなしゅじん",
+      "detail": {
+        "skill": "When engraved on Buster card, increases critical damage by 25% of the engraved card.",
+        "description": "\"What? You wish for victory more than a good harvest?\n\nLeave it to me, then!\n\nI'll give it my all to shoot down all your enemies!\""
+      },
+      "unmodifiedDetail": "Busterカードに刻印時のみ、刻印されたカードのクリティカル威力を25%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "ainezu",
+    "comment": "「なに、豊穣より勝利がお望みなの？\n　そういう事なら任せなさい、\n　全力でアナタの敵を撃ち抜いてあげる！」"
+  },
+  {
+    "id": 8400530,
+    "collectionNo": 53,
+    "name": "Angel's Bed",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400530": "https://static.atlasacademy.io/JP/CommandGraph/8400530a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400530": "https://static.atlasacademy.io/JP/CommandCodes/c_8400530.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991978,
+      "name": "Angel's Bed",
+      "ruby": "てんしのべっど",
+      "detail": {
+        "skill": "Removes one  Critical Attack Chance Up buff from enemy when attacking using the engraved card.\nRecovers 100 HP when attacking using the engraved card.",
+        "description": "A bed for the healing of the sick and wounded.\n\nIt is also a device where nurses demonstrate their true abilities.\n\nHowever, it's not necessarily something for patients to lie down on.\n\n\nDepending on the situation, it can be a literal tool to eradicate the source of the disease that creates patients in the first place. At least that's what a certain head nurse insists."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体のクリティカル発生率アップ状態を1つ解除＋自身のHPを100回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "---",
+    "comment": "傷病者を癒すために用いられるベッド。\n白衣の天使がその存在意義を発揮する場でもある。\nただし、患者を寝かせるためだけのものとは限らない。\n\n場合によっては、患者を生み出す病巣を駆除するために用いられることもある、とある看護師長は主張する。"
+  },
+  {
+    "id": 8400540,
+    "collectionNo": 54,
+    "name": "The Improbable Phantasmal Horse",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400540": "https://static.atlasacademy.io/JP/CommandGraph/8400540a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400540": "https://static.atlasacademy.io/JP/CommandCodes/c_8400540.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991980,
+      "name": "The Improbable Phantasmal Horse",
+      "ruby": "ありえざるげんま",
+      "detail": {
+        "skill": "When engraved on Quick card, increases critical damage by 20% of the engraved card.",
+        "description": "A Phantasmal Beast born from a union of the Demonic Beast Griffin and a horse. \n\nHowever, as it is a product of both predator and prey, it was originally used as a metaphor for something impossible in stories, and it was nothing but a linguistic and philosophical symbol. \n \n\nWhile it is Rider Astolfo's favorite steed, its original owner is Bradamante, who is also one of the Twelve Paladins of Charlemagne."
+      },
+      "unmodifiedDetail": "Quickカードに刻印時のみ、刻印されたカードのクリティカル威力を20%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Rena Kamekichi",
+    "comment": "魔獣グリフォンと馬の間に生まれるとされる幻獣。\nしかし、親たる両者は捕食者と被食者であるため、\n元々はある物語の中で「ありえないこと」の比喩として\n用いられ、言語学上、または哲学的な象徴のみの\n存在であったという。\n\nライダーとして召喚された英霊アストルフォの\n愛馬であるが、本来の持ち主は所属を同じくする\nシャルルマーニュ十二勇士のひとり、ブラダマンテ。"
+  },
+  {
+    "id": 8400550,
+    "collectionNo": 55,
+    "name": "Maiden of Orleans",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400550": "https://static.atlasacademy.io/JP/CommandGraph/8400550a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400550": "https://static.atlasacademy.io/JP/CommandCodes/c_8400550.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 991981,
+      "name": "Maiden of Orleans",
+      "ruby": "おるれあんのおとめ",
+      "detail": {
+        "skill": "Can only use once every 3 turns, recovers 1000 HP when attacking using the engraved card.",
+        "description": "\"I am but a humble girl from Domremy who has devoted herself to the Lord.\n\n\nBut should you continue to face hardships and walk the straight and honest path, I shall raise my flag before you.\n\n\n...In the name of the Lord.\""
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身のHPを1000回復(1度使用すると再使用に3ターン必要)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+      "coolDown": [
+        3
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Imigimuru",
+    "comment": "「私の本質は主に身を委ねた、ただのドンレミの娘。\n\n　ですが貴方が苦難に立ち向かい続けるのならば、\n　まっすぐに歩み続けていくのならば、\n　この旗を掲げ、振るいましょう。\n\n　―――主の御名のもとに」"
+  },
+  {
+    "id": 8400560,
+    "collectionNo": 56,
+    "name": "The One Bearing Fortune",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400560": "https://static.atlasacademy.io/JP/CommandGraph/8400560a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400560": "https://static.atlasacademy.io/JP/CommandCodes/c_8400560.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992038,
+      "name": "The One Bearing Fortune",
+      "ruby": "とみをはこぶもの",
+      "detail": {
+        "skill": "When engraved on Quick card, increases critical star absorption by 100% of the engraved card.",
+        "description": "A former half-god, half-beast mount, who was cursed with the form of a mouse after its careless mistake incurred a sage's wrath.\nAnd on its back, it is said that it carries the great elephant-headed deity said to represent fortune and wealth."
+      },
+      "unmodifiedDetail": "Quickカードに刻印時のみ、刻印されたカードのスター集中度を100%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00307.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "---",
+    "comment": "不注意から仙人の怒りを買い、呪いで鼠に姿を変えられてしまった元は半神半獣の神の乗り物。\nその背に担ぐのは富を象徴するとされる大いなる象頭の神だという。"
+  },
+  {
+    "id": 8400570,
+    "collectionNo": 57,
+    "name": "Himeji Bat",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400570": "https://static.atlasacademy.io/JP/CommandGraph/8400570a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400570": "https://static.atlasacademy.io/JP/CommandCodes/c_8400570.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992069,
+      "name": "Himeji Bat",
+      "ruby": "",
+      "detail": {
+        "skill": "Removes one  Critical Damage Up buff from enemy when attacking using the engraved card.\nRecovers 100 HP when attacking using the engraved card.",
+        "description": "The creation of the monster who lives in Himeji Castle.\n\nThey were made from decorative and colourful papers and were used as their master's hands and feet in every situations and not limited to offense and defense during battles.\n\n\nSince they are originally origami, they can be made into a variety of productions. \n\nIn the summer version, they appeared in various forms such as frog soldiers, rat soldiers, hermit crab tanks, flying fish fighters, or chicken cavalries."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体のクリティカル威力アップ状態を1つ解除＋自身のHPを100回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "姫路城に住み着いている城化物の創造物。\n千代紙から生み出された彼らは戦闘時の攻防に限らず、あらゆる局面で主人の手足として使役されている。\n\n元が折り紙故に様々な種類が制作可能。\n夏Ver.ではカエル兵士型、ネズミ兵士型、ヤドカリ戦車やトビウオ戦闘機、ニワトリ騎羽兵など様々な形で登場した。"
+  },
+  {
+    "id": 8400580,
+    "collectionNo": 58,
+    "name": "Djinn’s Lamp",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400580": "https://static.atlasacademy.io/JP/CommandGraph/8400580a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400580": "https://static.atlasacademy.io/JP/CommandCodes/c_8400580.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992068,
+      "name": "Djinn’s Lamp",
+      "ruby": "",
+      "detail": {
+        "skill": "Inflicts  Burn with 300 damage for 3 turns to enemy when attacking using the engraved card.\nGains 2 critical stars when attacking using the engraved card.",
+        "description": "A golden incense burner owned by a Queen of many mysteries.\n\n\nIt is said that in order to test the King of Mage who was once known as a wise man with three riddles, she made the three evil spirits (Djinn) resided within this lamp into her opponents and asked them difficult problems."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体にやけど状態(300ダメージ・3ターン)を付与＋スターを2個獲得",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00511.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Zap.",
+    "comment": "ある謎多き女王が所持する黄金の香炉。\n\nかつて名高き賢者である魔術王を三つの謎掛けで\n試したように、中に宿った三つ子の霊鬼（ジン）が\n敵に難題を問いかけるという。"
+  },
+  {
+    "id": 8400590,
+    "collectionNo": 59,
+    "name": "Lady-in-waiting of Wisteria",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400590": "https://static.atlasacademy.io/JP/CommandGraph/8400590a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400590": "https://static.atlasacademy.io/JP/CommandCodes/c_8400590.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992067,
+      "name": "Lady-in-waiting of Wisteria",
+      "ruby": "",
+      "detail": {
+        "skill": "Increases damage against Demonic enemies by 20% of the engraved card.",
+        "description": "The sentiments I have when the large flowers bloom, and the feelings I experience when they gently scatter, I love everything about this love affair, this tale about you.\n\n\nAlso, to nestle close to you and to write up those letters is what made me who I am. \n\nPlease, I wish that those words stay beautiful..."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔魔性〕特攻効果を20%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "CanceR",
+    "comment": "「大輪の花と咲く想いも、はらりと零れ落ちる想いも、\n　そのめぐり逢いはすべて愛しき、貴方の物語。\n\n　そしてそれに寄り添い、\n　したためるのが私という者の在り方。\n　どうかその詞が、鮮やかでありますように……」"
+  },
+  {
+    "id": 8400600,
+    "collectionNo": 60,
+    "name": "Great Witch's Wheat Porridge",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400600": "https://static.atlasacademy.io/JP/CommandGraph/8400600a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400600": "https://static.atlasacademy.io/JP/CommandCodes/c_8400600.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992153,
+      "name": "Great Witch's Wheat Porridge",
+      "ruby": "だいまじょのむぎがゆ",
+      "detail": {
+        "skill": "Recovers the enemy's HP by 300 HP when attacking using the engraved card. ''[Demerit]''\n Inflicts  Poison with 1000 damage for 3 turns to enemy when attacking using the engraved card.",
+        "description": "\"Kykeon Detective Agency has opened for business here!\n\nEh, you already have enough detectives? \n\nPlease don't say such boring things. This is not just any detective work. \n\nBecause this is the first Detective Agency in the Human History, one that specializes in Kykeon!\n \nMy work goes from following the targets, going undercover for stakeouts, trouble intercepting, intervening, guarding, dealing with fights, proposing recipes, to giving cordial advice and shrewd suggestions, as long as it's a problem related to Kykeon, I will take care of it!\n\nAnd then, fufu, fufufu, ehehehe, as for my plan for the future? \n\nQuite frankly, I really want to proactively deal with infidel relations as well, so I am polishing my plan! \n\nWhatever difficult cases there are, the wise and beautiful Kykeon Detective will resolve them splendidly with Kykeon!\n\nIsn't that so!? You Medeas also think it's brilliant, don't you!?\"\n\n\n\"I think so.\"\n\n\"As I thought, pancakes are the best!\""
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体のHPを300回復【デメリット】＆毒状態(1000ダメージ・3ターン)を付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "「キュケオーン探偵事務所ここに開業だーっ！！\n　えっ探偵ならもう間に合ってる？　そんな退屈なこと\nを言わないでおくれよ。これはただの探偵業じゃないん\nだぞ。なんとキュケオーンを専門に取り扱う、人理初の\n探偵事務所なんだからね！　業務はまずは調査に尾行、\n張り込みに潜入、トラブル仲裁、介入、護衛、荒事対応、レシピ提案、親身なアドバイスから鋭い助言まで、キュケオーンにまつわる困り事ならなんでもござれさ！\n　そしてさ、ふふっ、ふふふ、エヘヘヘ、今後の計画と\nしてはね？　ずばり浮気関係なんてのも積極的に対応し\nていきたいなぁなんて構想を練っているところなんだ！\n　どんな難事件も賢くて美しいキュケオーン探偵が見事\nにキュケッと解決！\n　なぁ！？　素晴らしいだろうメディアたち！？」\n\n「そうですね」\n「やっぱり、パンケーキは最高ですよね！」"
+  },
+  {
+    "id": 8400640,
+    "collectionNo": 61,
+    "name": "Blades of Niten Dōraku",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400640": "https://static.atlasacademy.io/JP/CommandGraph/8400640a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400640": "https://static.atlasacademy.io/JP/CommandCodes/c_8400640.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992213,
+      "name": "Blades of Niten Dōraku",
+      "ruby": "にてんどうらくのかたな",
+      "detail": {
+        "skill": "When engraved on Buster card, increases critical damage by 20% of the engraved card.",
+        "description": "The swords held by the Flower of Tengen who arrived from a foreign country, who was famed as the strongest Japanese swordsmaster in the Pan-Human History.\n\n\nIts meaning was misunderstood to be the two-sword swordsmanship due to its name, however, its true nature is something that demonstrates the swordswoman's aim, which is \"the way to reach the sky\"."
+      },
+      "unmodifiedDetail": "Busterカードに刻印時のみ、刻印されたカードのクリティカル威力を20%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Zap.",
+    "comment": "汎人類史では日本最強の剣豪と謳われる、\n異邦より訪れた天元の花が提げた刀。\n\n扱う流名が二刀流剣術を意味すると誤解されるが、\n本質は、目指す“空へと至る道”を示すものだという。"
+  },
+  {
+    "id": 8400610,
+    "collectionNo": 62,
+    "name": "Command Seal of the Azure Reaper",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400610": "https://static.atlasacademy.io/JP/CommandGraph/8400610a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400610": "https://static.atlasacademy.io/JP/CommandCodes/c_8400610.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992202,
+      "name": "Command Seal of the Azure Reaper",
+      "ruby": "あわあおきものまさのれいいん",
+      "detail": {
+        "skill": "Increases damage against Undead enemies by 10% of the engraved card.",
+        "description": "The command seal of a certain Master.\n\n\nSymbolizing the coastal city that took its name from the place once known as the holy land of subcultures, where the young girl who is referred to as the Grim Reaper lives."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔死霊〕特攻効果を10%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "とあるマスターの令印。\n死神と呼ばれる少女が住まう、かつてサブカルチャーの聖地として親しまれた土地の名を冠した臨海都市の様相を模している。"
+  },
+  {
+    "id": 8400620,
+    "collectionNo": 63,
+    "name": "Cosmos Voyager's License",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400620": "https://static.atlasacademy.io/JP/CommandGraph/8400620a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400620": "https://static.atlasacademy.io/JP/CommandCodes/c_8400620.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992201,
+      "name": "Cosmos Voyager's License",
+      "ruby": "ほしのうみのこうかいしょう",
+      "detail": {
+        "skill": "Gains 2 critical stars when attacking using the engraved card.\nRemoves one Ailment Debuff when attacking using the engraved card.\n({{Ailment Debuffs}})",
+        "description": "A patch embroidered with a word representing the word \"Ship\".\n\n\nShining bright upon the chest of the young boy who travels the stars\n\nThat which was entrusted by his distant birthplace\n\n―――A symbol representing hopes and dreams.\n"
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時にスターを2個獲得＋自身の毒・呪い・やけど状態を1つ解除",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "『船』を意味する言葉が刺繍されたワッペン。\n\n星の間を旅する少年の胸に光るそれは、\n遠ざかる故郷から託された、\n\n―――夢と希望の証。"
+  },
+  {
+    "id": 8400630,
+    "collectionNo": 64,
+    "name": "Vive la France",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400630": "https://static.atlasacademy.io/JP/CommandGraph/8400630a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400630": "https://static.atlasacademy.io/JP/CommandCodes/c_8400630.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992200,
+      "name": "Vive la France",
+      "ruby": "ヴィヴ・ラ・フランス",
+      "detail": {
+        "skill": "Increases critical star absorption by 100% of the engraved card.\nRecovers party's HP by 100 when attacking using the engraved card.",
+        "description": "Everyone gives their love to me.\n\nAnd I love everyone, too.\n\nEven if your chest is paining with \"thorns\",\n\nI'll still love you.\n\nAfter all, I am the queen.\n\nFor the shining skies.\n\nFor the graceful earth.\n\nFor your happiness—''Vive la France''"
+      },
+      "unmodifiedDetail": "刻印されたカードのスター集中度を100%アップ ＋ 刻印されたカードによる攻撃時に、味方全体のHPを100回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Hanagata",
+    "comment": "「みんながわたしを愛してくれる。\n　わたしもみんなが大好きよ。\n　たとえ、ときに“棘”に胸を痛めても、\n　それでもわたしは愛するわ。\n\n　だってわたしは王妃ですもの。\n\n　空に輝きを。\n　地には恵みを。\n　あなたに幸せを―――ヴィヴ・ラ・フランス」"
+  },
+  {
+    "id": 8400650,
+    "collectionNo": 65,
+    "name": "Crest of Titan's Pit",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400650": "https://static.atlasacademy.io/JP/CommandGraph/8400650a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400650": "https://static.atlasacademy.io/JP/CommandCodes/c_8400650.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992270,
+      "name": "Crest of Titan's Pit",
+      "ruby": "きょじんのあなぐらのもんしょう",
+      "detail": {
+        "skill": "Increases the NP Generation Rate of the engraved card by 5%.",
+        "description": "A crest that show its affiliation to the Institute of Aggregation and Analysis, which is one of the three major branches of the Mage's Association.\n\n\n''We have no need to be the strongest. We create that which is the strongest.''\n\n\nSuch is their belief."
+      },
+      "unmodifiedDetail": "刻印されたカードのNP獲得量を5%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00602.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Zap.",
+    "comment": "魔術協会三大部門の一つである、\n蓄積と計測の院に属していることを示す紋章。\n\n自らが最強である必要はない。\n最強であるものを創り出すのだ。\n\nという格言を信条としている。"
+  },
+  {
+    "id": 8400660,
+    "collectionNo": 66,
+    "name": "True Crimson Immortal Maiden's Command Seal",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400660": "https://static.atlasacademy.io/JP/CommandGraph/8400660a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400660": "https://static.atlasacademy.io/JP/CommandCodes/c_8400660.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992339,
+      "name": "True Crimson Immortal Maiden's Command Seal",
+      "ruby": "まあかきせんにょのれいいん",
+      "detail": {
+        "skill": "Inflicts  Burn with 300 damage for 3 turns to enemy when attacking using the engraved card.\nIncrease critical damage by 5% of the engraved card.",
+        "description": "The command spell of a certain Master.\n\nIt imitates the flames of envy and hatred towards all mortals."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体にやけど状態(300ダメージ・3ターン)を付与 ＋ 刻印されたカードのクリティカル威力を5%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00511.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "とあるマスターの令印。\n定命を持つ者たちへの羨望と憎悪の炎を模している。"
+  },
+  {
+    "id": 8400670,
+    "collectionNo": 67,
+    "name": "Mask of Concealed Beauty",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400670": "https://static.atlasacademy.io/JP/CommandGraph/8400670a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400670": "https://static.atlasacademy.io/JP/CommandCodes/c_8400670.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992340,
+      "name": "Mask of Concealed Beauty",
+      "ruby": "らりゅうのめん",
+      "detail": {
+        "skill": "Increases buff success rate on self by 20% for 1 time (2 turns) when attacking using the engraved card.",
+        "description": "A mask worn by a military commander who was said to possess beauty that not only could change the troop's morale but also the situation of the war.\n\n\nIt is said that even though he was heroic and devoted himself to his country with great loyalty, he met his end because the Imperial side turned against him and he was given poison."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身の被強化成功率を20%アップ(1回・2ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00401.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Yamaneko",
+    "comment": "兵の士気のみならず、戦局すら変えうる美貌を持っていたといわれる武将が被っていた仮面。\n\n勇壮さにも恵まれ忠義厚く国へと尽くしたが、\n最期は天の側に背かれ、毒を賜ることになったという。"
+  },
+  {
+    "id": 8400680,
+    "collectionNo": 68,
+    "name": "Royal Bunny",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400680": "https://static.atlasacademy.io/JP/CommandGraph/8400680a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400680": "https://static.atlasacademy.io/JP/CommandCodes/c_8400680.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992341,
+      "name": "Royal Bunny",
+      "ruby": "ろいやるばにー",
+      "detail": {
+        "skill": "Increases self Buster, Arts, or Quick card by 10% for 1 turn when attacking using the engraved card.",
+        "description": "''The dealer is a perfect embodiment of composure.''\n\n''Whatever enemies and dilemmas they face, they do not panic and entrust everything to their fingertips.''\n\nThat was how I have been taught, what do you think of it?\n\nIt would be nice if I can become your Goddess of Victory."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身のQuickカード性能を10%アップ(1ターン)またはArtsカード性能を10%アップ(1ターン)またはBusterカード性能を10%アップ(1ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Hana Amano",
+    "comment": "「ディーラーとは冷静にして完璧なもの。\n　どのような強敵、どのような苦境にあろうと、\n　決してあわてず、指先に全てを込める―――\n　私はそのように教わりましたが、\n　いかがでしょう？\n　あなたの勝利の女神になれているとよいのですが」"
+  },
+  {
+    "id": 8400690,
+    "collectionNo": 69,
+    "name": "Mini Cu-chan",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400690": "https://static.atlasacademy.io/JP/CommandGraph/8400690a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400690": "https://static.atlasacademy.io/JP/CommandCodes/c_8400690.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992346,
+      "name": "Mini Cu-chan",
+      "ruby": "ミニクーちゃん",
+      "detail": {
+        "skill": "Removes one  Critical Attack Chance Up buff from enemy when attacking using the engraved card.\nIncreases  critical damage by 5% of the engraved card.",
+        "description": "The guardian beast (Companion) of a Queen full of love, who rules over a country of fluttering snowflakes, whom we have met in a previous journey.\n\n\nHe resembles a certain Servant in appearance, and while his temperament is also similarly violent, aspects of his actions and speech show him to be somewhat intelligent. \n\nFurthermore, he has the tendency to throw cheese products such as cheese sticks or cheese fish cakes when admonishing the Queen.\n\n\nCurrently, a doll that looks the same as him is at Chaldea, and seems to be guarding Master every nights, however, whether it was the real person (?) that we met at the time or not is unclear."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体のクリティカル発生率アップ状態を1つ解除 ＋ 刻印されたカードのクリティカル威力を5%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Zap.",
+    "comment": "かつての旅で出会った、雪華舞う国を統べる、\n恋多き女王の守護獣（おとも）。\n\nとあるサーヴァントに見た目が似ており、\n気性も同じく激しいが、\n行動や言葉の端々はどこか理知的。\n尚、女王を諫める時はチー鱈やチーカマといった\nチーズ製品を投げつけていた模様。\n\n現在は同じ見た目の人形がカルデアに存在し、\n夜な夜なマスターを守護しているようだが、\nあの時に出会った本人（？）であるかは不明。"
+  },
+  {
+    "id": 8400700,
+    "collectionNo": 70,
+    "name": "Nautilus",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400700": "https://static.atlasacademy.io/JP/CommandGraph/8400700a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400700": "https://static.atlasacademy.io/JP/CommandCodes/c_8400700.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992347,
+      "name": "Nautilus",
+      "ruby": "にまんりをゆくおうむがい",
+      "detail": {
+        "skill": "Gains 2 critical stars when attacking using the engraved card.\nRemoves one  Defense Down debuff from self.",
+        "description": "A fictional submarine with a large naval ram that has pierced through the ocean depth where the light do not reach, and has given birth to numerous adventure tales.\n\n\nIts name was speculated to originate from the living fossil of the marine mollusc Nautilus, however, its very meaning is actually \"Sailor\" or \"Seacraft\"."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時にスターを2個獲得＋自身の防御弱体状態を1つ解除",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Yamaneko",
+    "comment": "光届かぬ深海を貫く大衝角を有し、\n数多くの冒険譚を産み出した架空の潜水艦。\n\nその名は生きた化石と評されるオウム貝に由来するが、\n本来は『水夫』や『船舶』そのものを意味する。"
+  },
+  {
+    "id": 8400710,
+    "collectionNo": 71,
+    "name": "Everyone's Da Vinci-chan",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400710": "https://static.atlasacademy.io/JP/CommandGraph/8400710a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400710": "https://static.atlasacademy.io/JP/CommandCodes/c_8400710.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992348,
+      "name": "Everyone's Da Vinci-chan",
+      "ruby": "みんなのしょうじょダ・ヴィンチちゃん",
+      "detail": {
+        "skill": "Increase party's NP Damage by 8% for 1 turn when attacking using engraved card.",
+        "description": "\"As long as you live, you will always have to face hardships.\n\nI think that the spirits to band together and overcome such hardships in a positive way can be called the wisdom of humanity. \n\nThe new encounters that I meet with you guys and its brilliance will surely be my greatest accomplishments.\n\nBuon viaggio―――Have a good trip!\n\n\nWhaaat, you know my viewpoint is a biiiit different from the original Leonardo da Vinci, don't you?\""
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、味方全体の宝具威力を8%アップ(1ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Arutera",
+    "comment": "「生きているかぎり困難はつねに立ちはだかる。\n　それを前向きに、\n　力を合わせて乗り越えていける精神性こそが、\n　人類の叡智と呼ぶにふさわしい、と私は思う。\n　キミたちと迎える新たな出会いと輝きが、\n　私にとって最大の成果になるだろう。\n　ヴォン・ヴィアジョ―――良き旅を！\n\n　なーんて、\n　オリジナルのレオナルド・ダ・ヴィンチとは\n　ちょ～～っと違う考えだけどね？」"
+  },
+  {
+    "id": 8400720,
+    "collectionNo": 72,
+    "name": "Chibi Nobu (CC)",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400720": "https://static.atlasacademy.io/JP/CommandGraph/8400720a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400720": "https://static.atlasacademy.io/JP/CommandCodes/c_8400720.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992376,
+      "name": "Chibi Nobu (CC)",
+      "ruby": "ちびのぶ",
+      "detail": {
+        "skill": "Increases critical damage by 5% of the engraved card.\nGain 1 critical star when using the engraved card.",
+        "description": "It's an embodiment of a certain Heroic Spirit's subconsciousness, born from the Holy Grail going rampant―――?\n\n\nThat's the general opinion, however, the truth is that its appearance transformation has no rules, perhaps due to its spirit trying through new forms every year, such as turning giant or becoming a robot. For some reasons, there are times of the year when its voice also changes. The details of the actual situation is unclear.\n\n\nIn contrary to its appearance, its fighting power is high, and its actions are quite unforgiving. But, I do not think that it isn't cute."
+      },
+      "unmodifiedDetail": "刻印されたカードのクリティカル威力を5%アップ ＋ 刻印されたカードによる攻撃時にスターを1個獲得",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "---",
+    "comment": "聖杯の暴走によって生まれた、\nとある英霊の潜在意識が具現化したもの―――？\n\nという見解が一般的だが、実際には巨大化したり、ロボ化したりと、とりあえず新しい形態を毎年試してみるの精神なのか、形態変化に対して節操がない。何気に声も変わったりする季節がある。その実態は詳細不明。\n\nその見た目とは裏腹に戦闘力も高く、わりと行動には容赦がない。でもカワイイような気がしなくもない。"
+  },
+  {
+    "id": 8400730,
+    "collectionNo": 73,
+    "name": "Demon King Gun",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400730": "https://static.atlasacademy.io/JP/CommandGraph/8400730a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400730": "https://static.atlasacademy.io/JP/CommandCodes/c_8400730.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992377,
+      "name": "Demon King Gun",
+      "ruby": "まおうがん",
+      "detail": {
+        "skill": "Increases the engraved card's critical damage by 25%, but only on  Burning Field.",
+        "description": "The multi-barrel arquebus handled by the Soldier of Fortune, the Fool of Owari.\n\n\nContinuously firing is done by rotating the crank. \n\nNot only it can respond to ranged attacks with the four barrels extended into a funnel shape, but also melee attacks with the bayonet, truly can be said to be of used in various situations."
+      },
+      "unmodifiedDetail": "〔炎上〕しているフィールドにおいて、刻印されたカードのクリティカル威力を25%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "尾張のうつけ、風雲児が扱う多銃身の火縄銃。\n\nクランクを回すことで連続発射を行なう。\n４本の銃身を漏斗状に展開しての範囲攻撃や、\n銃剣による近接攻撃にも対応ができ、\n実に多目的な運用を可能にしているという。"
+  },
+  {
+    "id": 8400740,
+    "collectionNo": 74,
+    "name": "Majin-san",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400740": "https://static.atlasacademy.io/JP/CommandGraph/8400740a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400740": "https://static.atlasacademy.io/JP/CommandCodes/c_8400740.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992378,
+      "name": "Majin-san",
+      "ruby": "まじんさん",
+      "detail": {
+        "skill": "Increases Star Absorption of the engraved card by 100%. \n Increases Critical Damage of the engraved card by 10%.",
+        "description": "\"Someone who was supposed to disappear after that one manifestation like me, to be given such an important task......\n\nIt makes me really happy, as happy as when I eat Chikuwabu.\n\nSo happy.\n\n\nI shall repay this debt of gratitude with all my body and my Spirit Origin, Master.\""
+      },
+      "unmodifiedDetail": "刻印されたカードのスター集中度を100%アップ＆クリティカル威力を10%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Eiri Iwamoto",
+    "comment": "「ただ一度の顕現で消えるはずだったこの私が、\n　こんな大役を与えられるまでになるとは……\n　ちくわぶを食べたときくらいに、とてもうれしい。\n　うれしみ。\n\n　ならば我が身、我が霊基のすべてを以て、\n　この恩義に報いるとしよう、マスター」"
+  },
+  {
+    "id": 8400750,
+    "collectionNo": 75,
+    "name": "Leviathan",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400750": "https://static.atlasacademy.io/JP/CommandGraph/8400750a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400750": "https://static.atlasacademy.io/JP/CommandCodes/c_8400750.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992414,
+      "name": "Leviathan",
+      "ruby": "りヴぁいあさん",
+      "detail": {
+        "skill": "Recovers 100 HP when attacking using the engraved card and gains 1 Critical Star.",
+        "description": "Pen.\n\n\nNot―――the lovely idol of the aquarium, but a great ocean's magical beast according to a certain Prima Donna on ice.\n\nIt is said that its name means \"twisted\" and \"wrapped around a whirlpool\", and that it governs Jealousy of the Seven Deadly Sins.\n\n\nGuin."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身のHPを100回復＋スターを1個獲得",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "---",
+    "comment": "ペン。\n\n愛らしい水族館のアイドル―――ではなく、\nとある氷上のプリマドンナ曰く大海の魔獣。\nその名は「ねじれた」「渦を巻いた」などを意味し、\n七つの大罪のうち嫉妬を司るという。\n\nギン。"
+  },
+  {
+    "id": 8400760,
+    "collectionNo": 76,
+    "name": "Pestle of the Kleshas",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400760": "https://static.atlasacademy.io/JP/CommandGraph/8400760a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400760": "https://static.atlasacademy.io/JP/CommandCodes/c_8400760.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992415,
+      "name": "Pestle of the Kleshas",
+      "ruby": "ぼんのうひつめつのきね",
+      "detail": {
+        "skill": "Increases critical damage by 10% of the engraved card.\nIgnores Defense when attacking using the engraved card.",
+        "description": "A ritual tool made from the bones of enlightened hermits.\n\nIt is said that the pointed Vajra that does not diverge at both ends represents the ultimate nature of all things, and that it means bravery or crushing destruction."
+      },
+      "unmodifiedDetail": "刻印されたカードのクリティカル威力を10%アップ＆防御無視効果を付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "聖仙の骨より造られし法具。\n両端が分かれず尖った独鈷杵は、\n万有の本体たる真如を表し、\nまた勇猛や砕破などを意味するという。"
+  },
+  {
+    "id": 8400770,
+    "collectionNo": 77,
+    "name": "Heavenly Emperor's Consort",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400770": "https://static.atlasacademy.io/JP/CommandGraph/8400770a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400770": "https://static.atlasacademy.io/JP/CommandCodes/c_8400770.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992416,
+      "name": "Heavenly Emperor's Consort",
+      "ruby": "てんていのきひ",
+      "detail": {
+        "skill": "Increases critical damage against enemies with  Burn debuff by 30% of the engraved card.",
+        "description": "\"Yahoo! It's Yuyu ☆\n\nI'm gonna get closer and support you more than anyone nearby. \n\nI'm aiming to be such normal Servantー! \n\nEhehe~. \n\nAlrighty! I'm gonna play my instrument with all my power!!\""
+      },
+      "unmodifiedDetail": "刻印されたカードの〔やけど〕状態に対するクリティカル威力を30%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Chocoan",
+    "comment": "「ヤッホー！　ユゥユゥでーす☆\n　誰よりも近くであなたの選択に寄り添い、支える。\n　そんな普通のサーヴァントを目指してまーす！\n　えへへ～。\n　よーし！　全力で奏でちゃうぞー！！」"
+  },
+  {
+    "id": 8400780,
+    "collectionNo": 78,
+    "name": "Tarasque",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400780": "https://static.atlasacademy.io/JP/CommandGraph/8400780a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400780": "https://static.atlasacademy.io/JP/CommandCodes/c_8400780.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992464,
+      "name": "Tarasque",
+      "ruby": "あいしらぬかなしきりゅう",
+      "detail": {
+        "skill": "Inflicts  Poison with 300 damage for 3 turns to enemy when attacking using the engraved card.\nIncreases  critical damage by 5% of the engraved card.",
+        "description": "A six legs monster with a carapace that was said to once lived by the riverside.\n\nIt was reduced to a slave of atrocious acts such as spitting out flames and eating people, however, it was said that the cause of such thing was because it longed for its mother's love.\n\n\nAnd, it was eventually persuaded by a certain Saintess's love. Love is crucial."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体に毒状態(300ダメージ・3ターン)を付与 ＋ 刻印されたカードのクリティカル威力を5%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00510.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Zap.",
+    "comment": "かつてある川沿いに棲息していたといわれる、\n甲羅を持つ六本脚の怪物。\n火を吐き人々を喰らうなど暴虐の虜と化していたが、\nそれは母の愛を求めていたことに起因していたという。\n\nしかし、ある聖女の愛によって説伏されることとなった。愛、大事。"
+  },
+  {
+    "id": 8400790,
+    "collectionNo": 79,
+    "name": "Staff of the Dragon's Saintess",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400790": "https://static.atlasacademy.io/JP/CommandGraph/8400790a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400790": "https://static.atlasacademy.io/JP/CommandCodes/c_8400790.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992466,
+      "name": "Staff of the Dragon's Saintess",
+      "ruby": "りゅうのせいじょのつえ",
+      "detail": {
+        "skill": "When engraved on Buster card, increases critical damage against Dragon enemies by 30% of the engraved card.",
+        "description": "A gentle and beautiful Sacred Staff given by \"Him\" to a radiant lady.\n\n\nThe Holy Authority demonstrated by raising it up high would suppress any kind of evil, and make them fall on their knees. \n\nIt is not, in any ways, a physical thing. Absolutely not."
+      },
+      "unmodifiedDetail": "Busterカードに刻印時のみ、刻印されたカードの〔竜〕に対するクリティカル威力を30%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Yamaneko",
+    "comment": "優しく美しい、輝ける淑女が「彼」より賜った聖杖。\n\nこれを掲げることによって示される聖なる威光は、\nいかなる邪悪をも鎮め、平伏させる。\nけっして物理的なものではない。ないのである。"
+  },
+  {
+    "id": 8400800,
+    "collectionNo": 80,
+    "name": "Endowed Hero",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400800": "https://static.atlasacademy.io/JP/CommandGraph/8400800a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400800": "https://static.atlasacademy.io/JP/CommandCodes/c_8400800.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992467,
+      "name": "Endowed Hero",
+      "ruby": "さずかりのえいゆう",
+      "detail": {
+        "skill": "Gains 3 critical stars when attacking using the engraved card. Recovers own HP by 200 when attacking using the engraved card.",
+        "description": "\"I shall devote myself to stay close and assist you.\n\nIt is truly an honour as a Servant.\n\n\nPlease, leave this to me, Master. \n\nI shall serve this honourable duty with my body and soul! It's time!\""
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時にスターを3個獲得＋自身のHPを200回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Hanagata",
+    "comment": "「そばに寄り添い助力に尽くす。\n　サーヴァントとして実に光栄なことです。\n\n　どうぞ私にお任せ下さい、マスター。\n　この誉れある任務、\n　全身全霊を以て務め上げてみせましょう！　いざ！」"
+  },
+  {
+    "id": 8400810,
+    "collectionNo": 81,
+    "name": "The One who Carries the Grand Mother",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400810": "https://static.atlasacademy.io/JP/CommandGraph/8400810a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400810": "https://static.atlasacademy.io/JP/CommandCodes/c_8400810.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992491,
+      "name": "The One who Carries the Grand Mother",
+      "ruby": "たいぼをせおうもの",
+      "detail": {
+        "skill": "Increases critical damage by 5% of the engraved card.\nRecovers 100 HP when attacking using the engraved card.",
+        "description": "The white divine beast that always stays close to and safeguards the profoundly benevolent divine consort.\n\nOriginally it was a hunting dog, however, it has taken the form of the Chief God's avatar."
+      },
+      "unmodifiedDetail": "刻印されたカードのクリティカル威力を5%アップ ＋ 刻印されたカードによる攻撃時に自身のHPを100回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "慈悲深き神妃に常に寄り添い守護した白亜の神獣。\n本来は猟犬だが、主神の化身の似姿をとっている。"
+  },
+  {
+    "id": 8400820,
+    "collectionNo": 82,
+    "name": "Mini-Ushiwaka",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400820": "https://static.atlasacademy.io/JP/CommandGraph/8400820a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400820": "https://static.atlasacademy.io/JP/CommandCodes/c_8400820.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992492,
+      "name": "Mini-Ushiwaka",
+      "ruby": "みにうしわか",
+      "detail": {
+        "skill": "Gains 1 critical star when attacking using the engraved card.\nRemoves one  Attack Debuff when attacking using the engraved card.",
+        "description": "Bearing resemblance to a certain Servant.....was not the case, it practically is the young Genji warrior becoming smaller.\n\n\nHowever, even in that state, her posture as she pushes forward to take off her enemies' heads, which is as easy as a swallow flying over Gojou Bridge, does not change at all."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時にスターを1個獲得＋自身の攻撃弱体状態を1つ解除",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "とあるサーヴァントによく似ている……のではなく、\n実際に身の丈が小さくなってしまった源氏の若武者。\n\nしかしそんな状態でも、\n五条大橋の上を飛び交う燕のごとく軽やかに、\n敵の首を刈るため邁進する姿勢は変わらない。"
+  },
+  {
+    "id": 8400830,
+    "collectionNo": 83,
+    "name": "Tengu's Hauchiwa",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400830": "https://static.atlasacademy.io/JP/CommandGraph/8400830a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400830": "https://static.atlasacademy.io/JP/CommandCodes/c_8400830.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992493,
+      "name": "Tengu's Hauchiwa",
+      "ruby": "てんぐのはうちわ",
+      "detail": {
+        "skill": "Removes one  Damage Up buff from enemy when attacking using the engraved card.\nIncreases critical damage by 10% of the engraved card.",
+        "description": "The Hauchiwa (Feathered fan) owned by Ushiwakamaru (Assassin).\n\n\nIt is said that it creates the first windstorm (great burst of wind) by calling forth various divine power that surpassed human knowledge.\n\nWhile she did play around with her teacher's great feathered fan when she was alive, as her Noble Phatasm, this has become her own thing."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体の攻撃力アップ状態を1つ解除 ＋ 刻印されたカードのクリティカル威力を10%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "牛若丸（アサシン）が持つ羽団扇。\n\n暴風（あからしまかぜ）の発生をはじめ、\n人智を超えたさまざまな神通力を引き起こすという。\n生前には師匠の大羽扇そのもので遊んでいたが、\n宝具としては独自のモノになっている。"
+  },
+  {
+    "id": 8400840,
+    "collectionNo": 84,
+    "name": "Heavenly Child of Kurama",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400840": "https://static.atlasacademy.io/JP/CommandGraph/8400840a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400840": "https://static.atlasacademy.io/JP/CommandCodes/c_8400840.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992494,
+      "name": "Heavenly Child of Kurama",
+      "ruby": "くらまのもうしご",
+      "detail": {
+        "skill": "Increases the engraved card's critical damage by 20%.",
+        "description": "\"Playing is in fact, training, and training is in fact, playing!\n\nRunning through the trees on the mountain like a swift wind, jumping over the rivers, or going around the fields.\n\nEverything is a game, and everything is training!\n\nThis is a flawless conclusion!\n\n\nNow then, let's play a lot today as well, my lord!\""
+      },
+      "unmodifiedDetail": "刻印されたカードのクリティカル威力を20%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "POKImari",
+    "comment": "「遊びこそが修行、修行こそが遊び！\n　山の木々を疾風（はやて）のように駆け抜け、\n　川を飛び越え野原を巡る。\n　全ては遊戯、全ては修行！\n　これぞ天衣無縫の極みなり！\n\n　さあ、今日もめいっぱい遊びましょう、主殿！」"
+  },
+  {
+    "id": 8400850,
+    "collectionNo": 85,
+    "name": "Witch's Command Seal",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400850": "https://static.atlasacademy.io/JP/CommandGraph/8400850a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400850": "https://static.atlasacademy.io/JP/CommandCodes/c_8400850.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992516,
+      "name": "Witch's Command Seal",
+      "ruby": "あおきまじょのれいいん",
+      "detail": {
+        "skill": "When engraved on Arts card, removes one  Attack Up buff and one  Defense Up buff from enemy when attacking using the engraved card.",
+        "description": "Command spells of a certain Servant turned Master.\n\nIt imitates the the staff of a mage from the age of Gods, who has encountered many betrayals."
+      },
+      "unmodifiedDetail": "Artsカードに刻印時のみ、刻印されたカードによる攻撃時に、敵単体の攻撃力アップ状態を1つ解除＆防御力アップ状態を1つ解除",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "とあるマスターとなったサーヴァントの令印。\nいくつもの裏切りに遭逢した神代の魔術師がかざす杖を模している。"
+  },
+  {
+    "id": 8400860,
+    "collectionNo": 86,
+    "name": "Lover's Holy Shroud",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400860": "https://static.atlasacademy.io/JP/CommandGraph/8400860a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400860": "https://static.atlasacademy.io/JP/CommandCodes/c_8400860.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992517,
+      "name": "Lover's Holy Shroud",
+      "ruby": "こいびとたちのせいがいふ",
+      "detail": {
+        "skill": "Removes one  Defense Debuff when attacking using the engraved card.\nRecovers own HP by 200 when attacking using the engraved card.",
+        "description": "A relic bearing the name of a priest.\n\nIt is said the Saint has become a symbol of \"that day\" which bestows sweet moments upon people, has them snuggle up in love, and encourages affection in the West and the East alike.\n\n\nIt should be noted that, this cloth is not, by any mean, used to restraint men."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身の防御弱体状態を1つ解除＆HPを200回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "ある司祭の名を冠した、聖遺物。\nその聖人はいまや西洋東洋問わず、愛を励まし、恋に寄り添い、人々に甘いひとときを与える“その日”の象徴となっているという。\n\nなお、決して男性を縛り付けるための布ではない。"
+  },
+  {
+    "id": 8400870,
+    "collectionNo": 87,
+    "name": "Moon Goddess in Love",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400870": "https://static.atlasacademy.io/JP/CommandGraph/8400870a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400870": "https://static.atlasacademy.io/JP/CommandCodes/c_8400870.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992518,
+      "name": "Moon Goddess in Love",
+      "ruby": "こいするつきのめがみ",
+      "detail": {
+        "skill": "Increases damage against Male enemies by 20% of the engraved card.",
+        "description": "\"Yeees, Master. \n\n\nYou know, getting my blessings is a super lucky thing!\n\n\nMy love and affection both belong to my darling, but for you, I would happily give my blessings!\n\nYou're not gonna say no, are you?\"\n\n\n(If possible, could you tone down both your love and affection a little?)\n\n\n\"―――Darling, did you just say something?\"\n\n\n\"No, nothing at all!!\""
+      },
+      "unmodifiedDetail": "刻印されたカードに〔男性〕特攻効果を20%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Kohaku Sumeragi",
+    "comment": "「はあい、マスター！\n　\n　私からの祝福だなんて、\n　もう、ものすっごくラッキーなことなのよ！\n\n　恋も愛もダーリンのものだけど、\n　あなたにならジャンジャカ祝福するわ！\n　嫌とは言わないわよね？」\n\n（恋も愛も、\n　できればもう少し減らしてくれないですかね）\n\n「―――ダーリン、何か言った？」\n\n「いえ何も！！」"
+  },
+  {
+    "id": 8400880,
+    "collectionNo": 88,
+    "name": "Elegant Classic Phantom Thief Hat",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400880": "https://static.atlasacademy.io/JP/CommandGraph/8400880a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400880": "https://static.atlasacademy.io/JP/CommandCodes/c_8400880.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992572,
+      "name": "Elegant Classic Phantom Thief Hat",
+      "ruby": "ゆうがてんがなかいとうぼう",
+      "detail": {
+        "skill": "When attacking with the engraved card, removes one  NP Damage Up buff from enemy.\nIf successfully removed, inflicts  Buster Resistance Down by 10% for 3 turns to them.",
+        "description": "The hat of the phantom thief costume that a young man who wished for people’s salvation, in order to free a certain thing, has dressed up as.\n\n\nIt is said that it is not a simple roleplay set, but functions as a full Spiritual Costume.\n\n\n“Promises are important, after all.”"
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体の宝具威力アップ状態を1つ解除＆解除成功時、Buster攻撃に対する防御力を10%ダウン(3ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "人々の救済を願った青年が、あるものを救い出すために扮することとなった怪盗衣装の帽子。\n\nただの成り切りセットではなく、れっきとした霊衣としての機能を有しているという。\n\n「お約束は大事ですからね」"
+  },
+  {
+    "id": 8400890,
+    "collectionNo": 89,
+    "name": "Idol☆Hat",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400890": "https://static.atlasacademy.io/JP/CommandGraph/8400890a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400890": "https://static.atlasacademy.io/JP/CommandCodes/c_8400890.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992649,
+      "name": "Idol☆Hat",
+      "ruby": "あいどら☆はっと",
+      "detail": {
+        "skill": "Removes one  Critical Attack Chance Up buff from enemy when attacking using the engraved card.\nGains 1 critical star when attacking using the engraved card",
+        "description": "The hat that the self-proclaimed Idol Servant puts on her head when she dons her concert outfit.\n\n\nHer sense of music is so overly radical that to people, it’s no different to an evil song, torture, and as toxic as the puffer fish poison.\n\n\nHowever, it is said that when she “sings for other people’s sake”, her singing voice becomes that of a songstress (diva)."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体のクリティカル発生率アップ状態を1つ解除＋スターを1個獲得",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "自称・アイドルのサーヴァントが、\nコンサート衣装に身を包む際にかぶる帽子。\n\nその音楽センスはあまりにも先鋭的すぎるがゆえに、\n人々にとっては魔曲であり拷問でありふぐ毒に等しい。\nだが、もし彼女が“他人のために歌う”とき、\nその歌声は歌姫（ディーバ）のそれになるという。"
+  },
+  {
+    "id": 8400900,
+    "collectionNo": 90,
+    "name": "Bellows of Meteoric Iron",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400900": "https://static.atlasacademy.io/JP/CommandGraph/8400900a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400900": "https://static.atlasacademy.io/JP/CommandCodes/c_8400900.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992650,
+      "name": "Bellows of Meteoric Iron",
+      "ruby": "いんてつのふいご",
+      "detail": {
+        "skill": "Inflicts  Burn with 500 damage for 3 turns to enemy when attacking using the engraved card.\nIncreases critical star absorption by 50% of the engraved card.",
+        "description": "According to a certain Royal Mage, it’s a miraculous stone that fell down to earth in the far bygone days, which was said to be “the tears of the stars”, or “a fragment of hope unknown to even the travelers’ star, something that previously didn’t exist on this planet”.\n\n\nA top-class premium object built by the Emperor of Roses herself, who uses it.\n\n\nWhile not a Noble Phantasm, it is a treasured sword that can read between the lines and clad itself in flame in response to its owner’s proud emotions."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体にやけど状態(500ダメージ・3ターン)を付与 ＋ 刻印されたカードのスター集中度を50%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00511.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "ある宮廷魔術師いわく、\n「星の涙」\nまたは\n「この星に在らざるもの故、旅人の星も知り得ない\n　希望の欠片」\nとも評した、遙かな過去、地上に落ちたとされる霊石。\n\nそれを使い薔薇の皇帝自らの手で作り上げられた、\n最高級プレミアもの。\n宝具ではないが、主の感情の昂ぶりに呼応し炎を纏う、\n空気が読める宝剣。"
+  },
+  {
+    "id": 8400910,
+    "collectionNo": 91,
+    "name": "Saber Exterminating Weapons",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400910": "https://static.atlasacademy.io/JP/CommandGraph/8400910a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400910": "https://static.atlasacademy.io/JP/CommandCodes/c_8400910.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992651,
+      "name": "Saber Exterminating Weapons",
+      "ruby": "たいせいばーようけっせんへいき",
+      "detail": {
+        "skill": "Increases damage against Saber enemies by 20% of engraved card.",
+        "description": "“I heard that there are other Sabers aside from me here!\n\nI have come on my beloved dashing Dun Stallion II―――\n\nNo, it’s not going to break down this time, you know? Of course not.\n\n\nAnyway, the Sabers, where are they, where are the Sabers?\n\nWhether it’s the red one, white one, or black one, I shall eradicate them all!\n\nI alone am enough as Master’s strongest sword!\n\n\nYes? Assassin? What are you talking about?”"
+      },
+      "unmodifiedDetail": "刻印されたカードに〔セイバー〕特攻効果を20%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Mashimasaki",
+    "comment": "「わたし以外のセイバーがいるときいて！\n　颯爽と愛機ドゥ・スタリオンⅡで来―――\n　いえ今回は故障したわけではないですよ？　ええ。\n\n　ところでセイバーはどこですかセイバーは。\n　赤でも白でも黒でも消し去ってみせましょう！\n　マスターにとって最優の剣はわたし一人で充分です！\n\n　はい？　アサシン？　なんのことです？」"
+  },
+  {
+    "id": 8400950,
+    "collectionNo": 92,
+    "name": "Mysterious Mask",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400950": "https://static.atlasacademy.io/JP/CommandGraph/8400950a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400950": "https://static.atlasacademy.io/JP/CommandCodes/c_8400950.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992799,
+      "name": "Mysterious Mask",
+      "ruby": "なぞのかめん",
+      "detail": {
+        "skill": "Gains 1 Critical Star when attacking using the engraved card\nReduce the target's Critical Attack chance by 10% for 1 Turn.",
+        "description": "A mask said to being sought out by a certain lot in Chaldea.\n\n\nA contact person can lend it to you, and while it does not have any particular magical concealing functions whatsoever, it is said that just by putting it on, everyone would be able to become “a person shrouded in mystery”."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時にスターを1個獲得＋敵単体のクリティカル発生率を10%ダウン(1ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "カルデアのとある一画に収集されているという仮面。\n\n窓口を通せば貸出可能なそれは、\n特に魔術的な隠蔽機能を有していないはずであるが、\nこれを身に着けるだけで、\nあらゆる者が『謎に包まれた存在』になれるという。"
+  },
+  {
+    "id": 8400920,
+    "collectionNo": 93,
+    "name": "Amulet of the Monster",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400920": "https://static.atlasacademy.io/JP/CommandGraph/8400920a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400920": "https://static.atlasacademy.io/JP/CommandCodes/c_8400920.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992811,
+      "name": "Amulet of the Monster",
+      "ruby": "ようじゅうのじゅふ",
+      "detail": {
+        "skill": "Inflicts  Curse with 300 damage for 3 turns to enemy and gains 1 Critical Star when attacking using the engraved card.",
+        "description": "The ceremonial amulet used by a vicious exorcist who lived during the Heian period.\n\nNot only it can be used to curse the target, it can also create a division of your body and put it to work."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体に呪い状態(300ダメージ・3ターン)を付与＋スターを1個獲得",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00513.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "平安の時代に棲んだ、悪辣なる陰陽師が用いる式符。\n対象を詛（のろ）うだけでなく、\n己の分け身を生成し、使役することも可能とする。"
+  },
+  {
+    "id": 8400930,
+    "collectionNo": 94,
+    "name": "Mini Border",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400930": "https://static.atlasacademy.io/JP/CommandGraph/8400930a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400930": "https://static.atlasacademy.io/JP/CommandCodes/c_8400930.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992809,
+      "name": "Mini Border",
+      "ruby": "みにぼーだー",
+      "detail": {
+        "skill": "Gains 2 critical stars and removes one  Defense Up buff from enemy when attacking using the engraved card.",
+        "description": "A small self-propelling artillery battery driven by an artificial Heroic Spirit created by an universal genius.\n\nThere are several mass-produced models.\n\n\nLike its master, it has a lovely appearance, high mobility and offensive ability, and it is versatile enough that it can deal with jobs in rough places."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時にスターを2個獲得＋敵単体の防御力アップ状態を1つ解除",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "万能の天才が鋳造した人造英霊が駆る小型自走砲台。\n量産型として複数機存在する。\n\n主人同様、愛らしい見た目のまま、\n高い機動性と攻撃力、\nそして難所での作業に対応する万能性を有している。"
+  },
+  {
+    "id": 8400940,
+    "collectionNo": 95,
+    "name": "Chiyogami Captain",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400940": "https://static.atlasacademy.io/JP/CommandGraph/8400940a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400940": "https://static.atlasacademy.io/JP/CommandCodes/c_8400940.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992807,
+      "name": "Chiyogami Captain",
+      "ruby": "ちよがみだいたいちょう",
+      "detail": {
+        "skill": "Increases party's critical damage by 15% (1 time, 1 turn) when attacking using the engraved card.",
+        "description": "\"It’s hereee!\n\nA survival and active summer with Ma-chan!\n\nThe reborn Okki is aiming and charging at the enemy camppp!\n\nOf course, this time my waist size is also perfect!\n \nI’m going to dominate the field, whether in love or war☆\""
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、味方全体のクリティカル威力を15%アップ(1回・1ターン)",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Pochi Iida。",
+    "comment": "「キター！\n　マーちゃんとのアクティブでサバイバルな夏！\n　新生おっきー、敵陣めがけて突撃だー！\n　もち、今回はウエストまわりもバッチリ！\n　ゲームも恋も、一方的に制圧しちゃうぞ☆」"
+  },
+  {
+    "id": 8400990,
+    "collectionNo": 96,
+    "name": "Matching Teddy-Bears",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8400990": "https://static.atlasacademy.io/JP/CommandGraph/8400990a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8400990": "https://static.atlasacademy.io/JP/CommandCodes/c_8400990.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992842,
+      "name": "Matching Teddy-Bears",
+      "ruby": "おそろいのこぐま",
+      "detail": {
+        "skill": "When attacking with the engraved card, removes 1 Defensive Debuff from self and Heals own HP by 100",
+        "description": "There is a stuffed toy named \"Yugo\" being carried around by a certain pious young girl.\n\n\nThe truth is that it has a twin called \"Migo\", that is staying with her very important friend."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身の防御弱体状態を1つ解除＆HPを100回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "ある敬虔な少女が肌身離さず持っている、\n「ユーゴ」という名前のぬいぐるみ。\n\n実は双子で、その片割れの「ミーゴ」は、\nとても大切な友達のもとにいるのだとか。"
+  },
+  {
+    "id": 8401000,
+    "collectionNo": 97,
+    "name": "Fantastical Iron Maiden",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8401000": "https://static.atlasacademy.io/JP/CommandGraph/8401000a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8401000": "https://static.atlasacademy.io/JP/CommandCodes/c_8401000.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992841,
+      "name": "Fantastical Iron Maiden",
+      "ruby": "ふぁんとむ・めいでん",
+      "detail": {
+        "skill": "Engraved card deals extra 15% damage against Females.",
+        "description": "A torture instrument modeled after the Virgin Mary, said to have been used by the Lady of Fresh Blood.\n\n\nAccording to the legends, it was made in order to squeeze out the blood of pure maidens so that she could preserve her own beauty, however, after many years of investigation, it is believed that it actually doesn't exist.\n\n\nIt is now the symbol of sin for those who would cling to their own beauty, no matter how cruel they become."
+      },
+      "unmodifiedDetail": "刻印されたカードに〔女性〕特攻効果を15%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "鮮血の少女が用いたとされる聖母を象った拷問器具。\n\n伝説では己が美貌を保つことを目的に、\n無垢な少女の血を搾り取るため作らせたといわれるが、\n長年の調査の結果、\n実在はしなかったと考えられている。\n\nどれほど残忍になろうとも、\n己が美にしがみつく人の罪業―――その象徴。"
+  },
+  {
+    "id": 8401010,
+    "collectionNo": 98,
+    "name": "Shrine Maiden of the Silver Key",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8401010": "https://static.atlasacademy.io/JP/CommandGraph/8401010a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8401010": "https://static.atlasacademy.io/JP/CommandCodes/c_8401010.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992840,
+      "name": "Shrine Maiden of the Silver Key",
+      "ruby": "ぎんけんのみこ",
+      "detail": {
+        "skill": "Gains 3 Critical Stars when attacking with the Engraved Card and Removes 1 Attack Up buff from the target",
+        "description": "\"How do you do, Master?\n\n\nUhmm……\n\nI don't really understand the difficult things but, this is surely God's Will, isn’t it?\n\n\nFor your sake, someone who holds my hands always.\n\nAnd to respond to your trust.\n\nI shall endeavor to do my best to support you.\n\nEi, ei, oh!\""
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時にスターを3個獲得＋敵単体の攻撃力アップ状態を1つ解除",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Bukurote",
+    "comment": "「ごきげんよう、マスター。\n\n　ええと……\n　私にはあまり難しいことはわからないのだけれど、\n　これもきっと神様の思し召しなのね。\n\n　いつも手を握ってくださるあなたのために。\n　そしてその信頼に応えられるように。\n　精一杯、お手伝いをさせていただくわ。\n　えい、えい、おー！」"
+  },
+  {
+    "id": 8401020,
+    "collectionNo": 99,
+    "name": "Nobusengumi",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8401020": "https://static.atlasacademy.io/JP/CommandGraph/8401020a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8401020": "https://static.atlasacademy.io/JP/CommandCodes/c_8401020.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992876,
+      "name": "Nobusengumi",
+      "ruby": "のぶせんぐみ",
+      "detail": {
+        "skill": "When engraved on a Quick card, increases the engraved card's critical damage by 15%",
+        "description": "Some kind of―――Roshigumi Corps Version of something born from the Holy Grail going crazy, the realization of a certain Heroic Spirit's consciousness.\n\n\nA chibi Nobu of justice, a little highly ambitious, said to have run away in order to correct the world as they has doubts about the unchanging way of their organization.\n\n\nIt is said that not only they can carry out intelligence assessment as a spy, but also has high degree of flexibility and pointlessly sharp swordsmanship."
+      },
+      "unmodifiedDetail": "Quickカードに刻印時のみ、刻印されたカードのクリティカル威力を15%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "聖杯の暴走によって生まれた、\nとある英霊の潜在意識が具現化したもの―――\nの、某浪士組隊バージョン？\n\n旧態依然とした組織の在り方に疑問を持ち世を正すために出奔したという、ちょっと志の高い正義のちびノブ。\n\n密偵として諜報活動を行うこともでき、高度な柔軟性と\n無駄に鋭い剣技も持ち合わせているという。"
+  },
+  {
+    "id": 8401030,
+    "collectionNo": 100,
+    "name": "A Gentle Wish",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8401030": "https://static.atlasacademy.io/JP/CommandGraph/8401030a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8401030": "https://static.atlasacademy.io/JP/CommandCodes/c_8401030.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992877,
+      "name": "A Gentle Wish",
+      "ruby": "やさしいねがい",
+      "detail": {
+        "skill": "When engraved on Arts card, increases critical star absorption by 150% of the engraved card.",
+        "description": "A lone man, dreaming of a new era, ran through the Bakumatsu age with his ancestral sword and his friend's gun in hand.\n\n\nSimply for the sake of making a world where everyone can live while smiling, that man kept running.\n\nSuch a small, yet too big for a person, wish, eventually got the man swallowed up in the billow of something called \"era\".\n\n\n―――His sword and gun is not for killing people, but for protecting them."
+      },
+      "unmodifiedDetail": "Artsカードに刻印時のみ、刻印されたカードのスター集中度を150%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00309.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "新しい時代を夢見て、伝来の刀と友の銃を手に\n幕末の世を駆け抜けた一人の男。\n\nみんなが笑い暮らせる世を。\nただそれだけの為に男は走り続けた。\nそんな小さな、そして人の身には大きすぎた願いは、\nやがて時代という名のうねりをもって男を\n呑み込むこととなった。\n\n―――その刀と銃は、\n人を殺めるためでなく、人を護るために。\n"
+  },
+  {
+    "id": 8401040,
+    "collectionNo": 101,
+    "name": "Demon Vice Captain",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8401040": "https://static.atlasacademy.io/JP/CommandGraph/8401040a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8401040": "https://static.atlasacademy.io/JP/CommandCodes/c_8401040.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992878,
+      "name": "Demon Vice Captain",
+      "ruby": "おにのふくちょう",
+      "detail": {
+        "skill": "Increases the engraved card's critical damage by 10~30% in proportion with the remaining HP (100~0%).",
+        "description": "\"Don't pull back. Cut them up, advance, cut them up, advanceee! \n\nRight, not yet! It's not over yet!\n\n\nAs long as I exist, the flag of Makoto will never die.\n\nThis is―――THE SHINSENGUMI!\""
+      },
+      "unmodifiedDetail": "刻印されたカードのクリティカル威力を10～30%アップ<HPが少ないほど威力がアップ>",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Raita Kazama",
+    "comment": "「退くな。斬れ、進め、斬れっ、進めぇっ！\n　そうだ、まだだ！　まだ終わらん！\n\n　俺あるかぎり誠の旗は不滅。\n　ここが―――新選組だ！」"
+  },
+  {
+    "id": 8401050,
+    "collectionNo": 102,
+    "name": "Enma-tei's Apprentices",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8401050": "https://static.atlasacademy.io/JP/CommandGraph/8401050a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8401050": "https://static.atlasacademy.io/JP/CommandCodes/c_8401050.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992899,
+      "name": "Enma-tei's Apprentices",
+      "ruby": "えんまていのでっちたち",
+      "detail": {
+        "skill": "When attacking with the engraved card, removes 1 Defense Debuff and gains 1 Critical Star",
+        "description": "The talking sparrows are employees of the great restaurant \"Enma-Tei\", the inn of the sparrow who welcomes countless Gods.\n\n\nThey are attendants of the Judges of Hell called the Ten Best Sparrows, and each of them has been given the name “Shinkou”, “Shokou”, \"Soutei\", \"Gokan\", \"Henjou\", \"Taizan\", \"Byoudou\", \"Toshi\", and \"Godoutenrin\"\n\n\nBy the way, their movements cannot exactly be called……flying through the sky dashingly, but rather barely floating above the ground, and only about as fast as a human walking.\n\nThey are cute."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、自身の防御弱体状態を1つ解除＋スターを1個獲得",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "八百万の神々をもてなす雀のお宿、\n大割烹『閻魔亭』の従業員である、喋る雀。\n\n雀十傑という地獄の裁判官の従者であり、それぞれに\n『秦広』『初江』『宋帝』『五官』『変成』\n『泰山』『平等』『都市』『五道転輪』\nという名前が与えられている。\n\nちなみに移動は颯爽と空を飛ぶ……ことはなく、\n地面スレスレに浮くくらいで、速さも人が歩く程度。\nかわいい。"
+  },
+  {
+    "id": 8401060,
+    "collectionNo": 103,
+    "name": "All Wounds Must Be Mended",
+    "rarity": 4,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8401060": "https://static.atlasacademy.io/JP/CommandGraph/8401060a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8401060": "https://static.atlasacademy.io/JP/CommandCodes/c_8401060.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992900,
+      "name": "All Wounds Must Be Mended",
+      "ruby": "ぺいんぶれいかー",
+      "detail": {
+        "skill": "When attacking with the engraved card, recovers 150 HP for all allies",
+        "description": "A healing Noble Phantasm that belongs to a sweet girl, who is not only a mage of the age of Gods who was taught magecraft by the Moon Goddess, but also the princess of a country.\n\n\nExcept for \"Death\", it is capable of removing all kind of absurdities and curses, and reverting injuries caused by magecraft.\n\n\nYou can even say it is the most suitable staff for an innocent girl who believes in the bond between people as a good witch."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、味方全体のHPを150回復",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "logA",
+    "comment": "月の女神に魔術を教わった神代の魔術師であり、\n一国の姫でもある可憐な少女が所持する治療宝具。\n\nあらゆる呪い、魔術による損傷をゼロに戻し、\n“死”以外のあらゆる理不尽を打破することができる。\n\nそれは、善き魔女として人々の絆を信じようとする、\n純真な少女に相応しい杖といえるのかもしれない。"
+  },
+  {
+    "id": 8401070,
+    "collectionNo": 104,
+    "name": "The Proprietress of the Sparrow Inn",
+    "rarity": 5,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8401070": "https://static.atlasacademy.io/JP/CommandGraph/8401070a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8401070": "https://static.atlasacademy.io/JP/CommandCodes/c_8401070.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992901,
+      "name": "The Proprietress of the Sparrow Inn",
+      "ruby": "すずめのやどのおかみさん",
+      "detail": {
+        "skill": "Increases the engraved card's damage against Chaotic enemies by 15%, and Evil enemies by 15%",
+        "description": "\"Chi-chirp.\n\nAs the proprietress, naturally, I have the responsibilichirp to repay your kind act with a night's lodging and a meal!\n\nTis' just a sparrow's tear drops in a bucket, it's not a problem-chirp!\n\nThere are plenty of dishes made with bounties of the sea and bounties of the mountain, make sure you eat lots, everyone.\""
+      },
+      "unmodifiedDetail": "刻印されたカードに〔混沌〕特攻効果を15%付与＆〔悪〕特攻効果を15%付与",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "Sino",
+    "comment": "「チュチュン。\n　日頃の恩に一宿一飯で返すのも、\n　女将として当然のお務めでち！\n　雀の涙ほど、なんてとんでもありまちぇん！\n　海の幸、山の幸をふんだんに使った料理の数々、\n　たーんと味わうでちよ、おまえ様」"
+  },
+  {
+    "id": 8401080,
+    "collectionNo": 105,
+    "name": "Jaguar Warrior",
+    "rarity": 3,
+    "extraAssets": {
+      "charaGraph": {
+        "cc": {
+          "8401080": "https://static.atlasacademy.io/JP/CommandGraph/8401080a.png"
+        }
+      },
+      "faces": {
+        "cc": {
+          "8401080": "https://static.atlasacademy.io/JP/CommandCodes/c_8401080.png"
+        }
+      }
+    },
+    "skills": {
+      "id": 992945,
+      "name": "Jaguar Warrior",
+      "ruby": "じゃがーのせんし",
+      "detail": {
+        "skill": "When attacking with the engraved card, removes 1 NP Damage buff from the target and increases the engraved card's critical damage by 5%.",
+        "description": "The form of an ancient Divine Spirit manifested through a vessel.\n\n\nFor some reason, the vessel gives off a 100% feeling of a Tiger, however, she is a genuine Jaguar.\n\nEither way, she is a proud jungle feline.\n\n\nIf you gain her trust, you will receive a Jaguar Stamp, punched down by her paws.\n\nIf you collect them, something good might happen.\n\nSuch as Curry Udon's broth will never splash on your clothes, or something like that.\n\nWorship the cat."
+      },
+      "unmodifiedDetail": "刻印されたカードによる攻撃時に、敵単体の宝具威力アップ状態を1つ解除 ＋ 刻印されたカードのクリティカル威力を5%アップ",
+      "type": "passive",
+      "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+      "coolDown": [
+        0
+      ],
+      "actIndividuality": [],
+      "script": {},
+      "extraPassive": [],
+      "skillAdd": []
+    },
+    "illustrator": "---",
+    "comment": "中南米に伝わる古き神霊が、依代を通して現界した姿。\n\n何故か依代が100％表出しているかのようなタイガーな感じだが、れっきとしたジャガー。\nどちらにせよ誇り高き密林のネコ科。\n\n信頼を得ることでジャガースタンプがもらえる。\n肉球でペタンと。\n集めると何かいいことがあるかもしれない。\nカレーうどんの汁が未来永劫服に跳ねなくなるとか、\nそういう感じで。\nネコを崇めよ。"
+  }
+]
