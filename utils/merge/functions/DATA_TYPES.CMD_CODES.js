@@ -5,9 +5,23 @@ const DATA_FUNCTION_CMD_CODES = async (data, FETCHS, jsonpath) => {
 
         const commandCode = atlas.find(a => a.collectionNo === cmdCode.no);
 
+        let images = {};
+
         if(!commandCode) {
             throw Error('Command Code not found!');
         }
+
+        Object.entries(commandCode.extraAssets).forEach(([key, value]) => {
+            let ImagesOfCommandsCodes = [];
+            
+            
+            if(value.cc && Object.keys(value.cc).length > 0) {
+                ImagesOfCommandsCodes = [...Object.values(value.cc)]
+            }
+            
+            
+            images[key] = ImagesOfCommandsCodes
+        })
 
         const skills = commandCode.skills.map(skill => {
             
@@ -17,16 +31,17 @@ const DATA_FUNCTION_CMD_CODES = async (data, FETCHS, jsonpath) => {
             }
 
             delete skill.functions
-
+            
             return {
                 ...skill,
-                detail: detail
+                detail: detail,
             }
 
         })
 
         return {
             ...commandCode,
+            extraAssets: images,
             skills: skills[0]
         }
     })

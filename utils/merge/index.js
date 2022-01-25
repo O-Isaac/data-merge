@@ -24,7 +24,7 @@ const MERGER_ACTIONS = {
 
 // MAIN FUNCTION
 module.exports = async function (dataset) {
-    console.log(`🛠 ${bold().green(`Start merging dataset ${dataset.type} with atlas academy assets!`)}`);
+    console.log(`🧱${bold().green(`Start merging dataset ${dataset.type} with atlas academy assets!`)}`);
     console.time(`⌛ ${bold().blue('Data merged in')}`)
 
     const merged = await MERGER_ACTIONS[dataset.type](dataset.data, FETCHS, jsonpath);

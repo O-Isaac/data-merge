@@ -39,7 +39,7 @@ const CraftEssence = {
             rarity: Int,
             cost: Int,
             lvMax: Int,
-            extraAssets: ExtraAssets @cacheControl(maxAge: 31536000),
+            extraAssets: ExtraAssets
             atkBase: Int,
             atkMax: Int,
             hpBase: Int,
@@ -49,13 +49,13 @@ const CraftEssence = {
             hpGrowth: [Int],
             expGrowth: [Int],
             expFeed: [Int],
-            skills: SkillCE @cacheControl(maxAge: 31536000)
+            skills: SkillCE
         }
 
         type Query {
-            craftEssenceById(id: Int): CraftEssence  @cacheControl(maxAge: 31536000),
-            craftEssenceByName(name: String): [CraftEssence]  @cacheControl(maxAge: 31536000)
-            craftEssences: [CraftEssence]  @cacheControl(maxAge: 31536000)
+            craftEssenceById(id: Int): CraftEssence ,
+            craftEssenceByName(name: String): [CraftEssence] 
+            craftEssences: [CraftEssence] 
         }
 
     `,
