@@ -4,6 +4,7 @@
   "description": "This scripts merge the best part of the api atlas academy and dataset of chaldea app",
   "main": "index.js",
   "scripts": {
+    "start": "npm run update && npm run serve",
     "serve": "node server/apollo",
     "update": "node scripts/update",
     "merge": "node scripts/test/merge"

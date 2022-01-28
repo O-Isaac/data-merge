@@ -5,16 +5,12 @@
     "name": "Code: Mortal",
     "rarity": 1,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400010": "https://static.atlasacademy.io/JP/CommandGraph/8400010a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400010": "https://static.atlasacademy.io/JP/CommandCodes/c_8400010.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400010a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400010.png"
+      ]
     },
     "skills": {
       "id": 991372,
@@ -44,16 +40,12 @@
     "name": "Code: Brute",
     "rarity": 1,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400020": "https://static.atlasacademy.io/JP/CommandGraph/8400020a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400020": "https://static.atlasacademy.io/JP/CommandCodes/c_8400020.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400020a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400020.png"
+      ]
     },
     "skills": {
       "id": 991373,
@@ -83,16 +75,12 @@
     "name": "Code: Corpse",
     "rarity": 1,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400030": "https://static.atlasacademy.io/JP/CommandGraph/8400030a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400030": "https://static.atlasacademy.io/JP/CommandCodes/c_8400030.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400030a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400030.png"
+      ]
     },
     "skills": {
       "id": 991374,
@@ -122,16 +110,12 @@
     "name": "Code: Evil",
     "rarity": 1,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400040": "https://static.atlasacademy.io/JP/CommandGraph/8400040a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400040": "https://static.atlasacademy.io/JP/CommandCodes/c_8400040.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400040a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400040.png"
+      ]
     },
     "skills": {
       "id": 991375,
@@ -161,16 +145,12 @@
     "name": "Code: Nimbus",
     "rarity": 1,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400050": "https://static.atlasacademy.io/JP/CommandGraph/8400050a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400050": "https://static.atlasacademy.io/JP/CommandCodes/c_8400050.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400050a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400050.png"
+      ]
     },
     "skills": {
       "id": 991376,
@@ -200,16 +180,12 @@
     "name": "Code: Bless",
     "rarity": 2,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400060": "https://static.atlasacademy.io/JP/CommandGraph/8400060a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400060": "https://static.atlasacademy.io/JP/CommandCodes/c_8400060.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400060a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400060.png"
+      ]
     },
     "skills": {
       "id": 991377,
@@ -239,16 +215,12 @@
     "name": "Code: Glitter",
     "rarity": 2,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400070": "https://static.atlasacademy.io/JP/CommandGraph/8400070a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400070": "https://static.atlasacademy.io/JP/CommandCodes/c_8400070.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400070a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400070.png"
+      ]
     },
     "skills": {
       "id": 991379,
@@ -278,16 +250,12 @@
     "name": "Code: Burst",
     "rarity": 2,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400080": "https://static.atlasacademy.io/JP/CommandGraph/8400080a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400080": "https://static.atlasacademy.io/JP/CommandCodes/c_8400080.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400080a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400080.png"
+      ]
     },
     "skills": {
       "id": 991380,
@@ -317,16 +285,12 @@
     "name": "Code: Focus",
     "rarity": 2,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400090": "https://static.atlasacademy.io/JP/CommandGraph/8400090a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400090": "https://static.atlasacademy.io/JP/CommandCodes/c_8400090.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400090a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400090.png"
+      ]
     },
     "skills": {
       "id": 991381,
@@ -356,16 +320,12 @@
     "name": "Code: Cure",
     "rarity": 2,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400100": "https://static.atlasacademy.io/JP/CommandGraph/8400100a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400100": "https://static.atlasacademy.io/JP/CommandCodes/c_8400100.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400100a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400100.png"
+      ]
     },
     "skills": {
       "id": 991382,
@@ -395,16 +355,12 @@
     "name": "Lucky Beast",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400110": "https://static.atlasacademy.io/JP/CommandGraph/8400110a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400110": "https://static.atlasacademy.io/JP/CommandCodes/c_8400110.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400110a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400110.png"
+      ]
     },
     "skills": {
       "id": 991384,
@@ -434,16 +390,12 @@
     "name": "Crest of Humanity",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400140": "https://static.atlasacademy.io/JP/CommandGraph/8400140a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400140": "https://static.atlasacademy.io/JP/CommandCodes/c_8400140.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400140a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400140.png"
+      ]
     },
     "skills": {
       "id": 991441,
@@ -473,16 +425,12 @@
     "name": "Armament of Victory",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400130": "https://static.atlasacademy.io/JP/CommandGraph/8400130a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400130": "https://static.atlasacademy.io/JP/CommandCodes/c_8400130.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400130a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400130.png"
+      ]
     },
     "skills": {
       "id": 991442,
@@ -512,16 +460,12 @@
     "name": "First Servant",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400120": "https://static.atlasacademy.io/JP/CommandGraph/8400120a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400120": "https://static.atlasacademy.io/JP/CommandCodes/c_8400120.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400120a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400120.png"
+      ]
     },
     "skills": {
       "id": 991443,
@@ -551,16 +495,12 @@
     "name": "Red Gem Lady's Command Seal",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400150": "https://static.atlasacademy.io/JP/CommandGraph/8400150a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400150": "https://static.atlasacademy.io/JP/CommandCodes/c_8400150.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400150a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400150.png"
+      ]
     },
     "skills": {
       "id": 991452,
@@ -590,16 +530,12 @@
     "name": "God-Binding Chain",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400160": "https://static.atlasacademy.io/JP/CommandGraph/8400160a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400160": "https://static.atlasacademy.io/JP/CommandCodes/c_8400160.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400160a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400160.png"
+      ]
     },
     "skills": {
       "id": 991453,
@@ -629,16 +565,12 @@
     "name": "Wedge of the Heavens",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400170": "https://static.atlasacademy.io/JP/CommandGraph/8400170a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400170": "https://static.atlasacademy.io/JP/CommandCodes/c_8400170.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400170a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400170.png"
+      ]
     },
     "skills": {
       "id": 991454,
@@ -668,16 +600,12 @@
     "name": "White Vessel's Command Seal",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400180": "https://static.atlasacademy.io/JP/CommandGraph/8400180a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400180": "https://static.atlasacademy.io/JP/CommandCodes/c_8400180.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400180a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400180.png"
+      ]
     },
     "skills": {
       "id": 991515,
@@ -707,16 +635,12 @@
     "name": "Dragon-Slayer's Sword",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400190": "https://static.atlasacademy.io/JP/CommandGraph/8400190a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400190": "https://static.atlasacademy.io/JP/CommandCodes/c_8400190.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400190a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400190.png"
+      ]
     },
     "skills": {
       "id": 991517,
@@ -746,16 +670,12 @@
     "name": "Demonic Dragon of Twilight",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400200": "https://static.atlasacademy.io/JP/CommandGraph/8400200a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400200": "https://static.atlasacademy.io/JP/CommandCodes/c_8400200.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400200a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400200.png"
+      ]
     },
     "skills": {
       "id": 991518,
@@ -785,16 +705,12 @@
     "name": "Love Hunter",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400210": "https://static.atlasacademy.io/JP/CommandGraph/8400210a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400210": "https://static.atlasacademy.io/JP/CommandCodes/c_8400210.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400210a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400210.png"
+      ]
     },
     "skills": {
       "id": 991519,
@@ -824,16 +740,12 @@
     "name": "The Dark Disciple's Command Seal",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400220": "https://static.atlasacademy.io/JP/CommandGraph/8400220a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400220": "https://static.atlasacademy.io/JP/CommandCodes/c_8400220.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400220a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400220.png"
+      ]
     },
     "skills": {
       "id": 991563,
@@ -863,16 +775,12 @@
     "name": "Sword of Beginning and End",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400230": "https://static.atlasacademy.io/JP/CommandGraph/8400230a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400230": "https://static.atlasacademy.io/JP/CommandCodes/c_8400230.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400230a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400230.png"
+      ]
     },
     "skills": {
       "id": 991565,
@@ -902,16 +810,12 @@
     "name": "The Holy Night's Aurora",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400240": "https://static.atlasacademy.io/JP/CommandGraph/8400240a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400240": "https://static.atlasacademy.io/JP/CommandCodes/c_8400240.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400240a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400240.png"
+      ]
     },
     "skills": {
       "id": 991568,
@@ -941,16 +845,12 @@
     "name": "Demonic Beast of the Forest",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400250": "https://static.atlasacademy.io/JP/CommandGraph/8400250a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400250": "https://static.atlasacademy.io/JP/CommandCodes/c_8400250.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400250a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400250.png"
+      ]
     },
     "skills": {
       "id": 991591,
@@ -980,16 +880,12 @@
     "name": "Mirror of Eight Leaves",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400260": "https://static.atlasacademy.io/JP/CommandGraph/8400260a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400260": "https://static.atlasacademy.io/JP/CommandCodes/c_8400260.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400260a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400260.png"
+      ]
     },
     "skills": {
       "id": 991592,
@@ -1019,16 +915,12 @@
     "name": "Good Wife, Wise Fox",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400270": "https://static.atlasacademy.io/JP/CommandGraph/8400270a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400270": "https://static.atlasacademy.io/JP/CommandCodes/c_8400270.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400270a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400270.png"
+      ]
     },
     "skills": {
       "id": 991593,
@@ -1058,16 +950,12 @@
     "name": "The Disillusioned Blossom's Command Seal",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400280": "https://static.atlasacademy.io/JP/CommandGraph/8400280a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400280": "https://static.atlasacademy.io/JP/CommandCodes/c_8400280.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400280a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400280.png"
+      ]
     },
     "skills": {
       "id": 991602,
@@ -1097,16 +985,12 @@
     "name": "Dove Report",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400290": "https://static.atlasacademy.io/JP/CommandGraph/8400290a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400290": "https://static.atlasacademy.io/JP/CommandCodes/c_8400290.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400290a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400290.png"
+      ]
     },
     "skills": {
       "id": 991679,
@@ -1136,16 +1020,12 @@
     "name": "Star-Severing Evil Sacred Sword",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400300": "https://static.atlasacademy.io/JP/CommandGraph/8400300a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400300": "https://static.atlasacademy.io/JP/CommandCodes/c_8400300.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400300a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400300.png"
+      ]
     },
     "skills": {
       "id": 991681,
@@ -1175,16 +1055,12 @@
     "name": "Bride of the White Rose",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400310": "https://static.atlasacademy.io/JP/CommandGraph/8400310a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400310": "https://static.atlasacademy.io/JP/CommandCodes/c_8400310.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400310a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400310.png"
+      ]
     },
     "skills": {
       "id": 991724,
@@ -1214,16 +1090,12 @@
     "name": "BB Slots",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400320": "https://static.atlasacademy.io/JP/CommandGraph/8400320a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400320": "https://static.atlasacademy.io/JP/CommandCodes/c_8400320.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400320a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400320.png"
+      ]
     },
     "skills": {
       "id": 991685,
@@ -1253,16 +1125,12 @@
     "name": "Coffin of the Fall",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400330": "https://static.atlasacademy.io/JP/CommandGraph/8400330a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400330": "https://static.atlasacademy.io/JP/CommandCodes/c_8400330.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400330a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400330.png"
+      ]
     },
     "skills": {
       "id": 991730,
@@ -1292,16 +1160,12 @@
     "name": "Faint Black Delusion's Command Seal",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400340": "https://static.atlasacademy.io/JP/CommandGraph/8400340a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400340": "https://static.atlasacademy.io/JP/CommandCodes/c_8400340.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400340a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400340.png"
+      ]
     },
     "skills": {
       "id": 991748,
@@ -1331,16 +1195,12 @@
     "name": "Spear of Love, Action, and Wisdom",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400350": "https://static.atlasacademy.io/JP/CommandGraph/8400350a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400350": "https://static.atlasacademy.io/JP/CommandCodes/c_8400350.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400350a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400350.png"
+      ]
     },
     "skills": {
       "id": 991750,
@@ -1370,16 +1230,12 @@
     "name": "The Nun with a Bodhisattva's Merciful Gaze",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400360": "https://static.atlasacademy.io/JP/CommandGraph/8400360a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400360": "https://static.atlasacademy.io/JP/CommandCodes/c_8400360.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400360a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400360.png"
+      ]
     },
     "skills": {
       "id": 991752,
@@ -1409,16 +1265,12 @@
     "name": "The Crimson-Hearted Liege's Command Seal",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400370": "https://static.atlasacademy.io/JP/CommandGraph/8400370a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400370": "https://static.atlasacademy.io/JP/CommandCodes/c_8400370.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400370a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400370.png"
+      ]
     },
     "skills": {
       "id": 991793,
@@ -1448,16 +1300,12 @@
     "name": "Spiritual Cube",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400380": "https://static.atlasacademy.io/JP/CommandGraph/8400380a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400380": "https://static.atlasacademy.io/JP/CommandCodes/c_8400380.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400380a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400380.png"
+      ]
     },
     "skills": {
       "id": 991795,
@@ -1487,16 +1335,12 @@
     "name": "Da Vinci",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400390": "https://static.atlasacademy.io/JP/CommandGraph/8400390a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400390": "https://static.atlasacademy.io/JP/CommandCodes/c_8400390.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400390a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400390.png"
+      ]
     },
     "skills": {
       "id": 991797,
@@ -1526,16 +1370,12 @@
     "name": "The Inexperienced Fantasy's Command Seal ",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400400": "https://static.atlasacademy.io/JP/CommandGraph/8400400a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400400": "https://static.atlasacademy.io/JP/CommandCodes/c_8400400.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400400a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400400.png"
+      ]
     },
     "skills": {
       "id": 991843,
@@ -1565,16 +1405,12 @@
     "name": "Fine Sword",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400410": "https://static.atlasacademy.io/JP/CommandGraph/8400410a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400410": "https://static.atlasacademy.io/JP/CommandCodes/c_8400410.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400410a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400410.png"
+      ]
     },
     "skills": {
       "id": 991844,
@@ -1604,16 +1440,12 @@
     "name": "The Great Fool of Owari",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400420": "https://static.atlasacademy.io/JP/CommandGraph/8400420a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400420": "https://static.atlasacademy.io/JP/CommandCodes/c_8400420.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400420a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400420.png"
+      ]
     },
     "skills": {
       "id": 991845,
@@ -1643,16 +1475,12 @@
     "name": "Crest of the Stone Bird",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400430": "https://static.atlasacademy.io/JP/CommandGraph/8400430a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400430": "https://static.atlasacademy.io/JP/CommandCodes/c_8400430.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400430a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400430.png"
+      ]
     },
     "skills": {
       "id": 962910,
@@ -1682,16 +1510,12 @@
     "name": "Ukiyoctopus",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400440": "https://static.atlasacademy.io/JP/CommandGraph/8400440a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400440": "https://static.atlasacademy.io/JP/CommandCodes/c_8400440.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400440a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400440.png"
+      ]
     },
     "skills": {
       "id": 991870,
@@ -1721,16 +1545,12 @@
     "name": "Brush of a Mad Painter",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400450": "https://static.atlasacademy.io/JP/CommandGraph/8400450a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400450": "https://static.atlasacademy.io/JP/CommandCodes/c_8400450.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400450a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400450.png"
+      ]
     },
     "skills": {
       "id": 991872,
@@ -1760,16 +1580,12 @@
     "name": "Mage of Flowers",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400460": "https://static.atlasacademy.io/JP/CommandGraph/8400460a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400460": "https://static.atlasacademy.io/JP/CommandCodes/c_8400460.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400460a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400460.png"
+      ]
     },
     "skills": {
       "id": 991873,
@@ -1799,16 +1615,12 @@
     "name": "Your Faithful Sheep",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400470": "https://static.atlasacademy.io/JP/CommandGraph/8400470a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400470": "https://static.atlasacademy.io/JP/CommandCodes/c_8400470.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400470a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400470.png"
+      ]
     },
     "skills": {
       "id": 991940,
@@ -1838,16 +1650,12 @@
     "name": "Law of Creation",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400480": "https://static.atlasacademy.io/JP/CommandGraph/8400480a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400480": "https://static.atlasacademy.io/JP/CommandCodes/c_8400480.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400480a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400480.png"
+      ]
     },
     "skills": {
       "id": 991942,
@@ -1877,16 +1685,12 @@
     "name": "Chain of the Heavens",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400490": "https://static.atlasacademy.io/JP/CommandGraph/8400490a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400490": "https://static.atlasacademy.io/JP/CommandCodes/c_8400490.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400490a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400490.png"
+      ]
     },
     "skills": {
       "id": 991944,
@@ -1916,16 +1720,12 @@
     "name": "The Bearded Scarlet Gentleman's Command Seal",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400500": "https://static.atlasacademy.io/JP/CommandGraph/8400500a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400500": "https://static.atlasacademy.io/JP/CommandCodes/c_8400500.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400500a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400500.png"
+      ]
     },
     "skills": {
       "id": 991970,
@@ -1955,16 +1755,12 @@
     "name": "Balance Scale of the Universe",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400510": "https://static.atlasacademy.io/JP/CommandGraph/8400510a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400510": "https://static.atlasacademy.io/JP/CommandCodes/c_8400510.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400510a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400510.png"
+      ]
     },
     "skills": {
       "id": 991972,
@@ -1994,16 +1790,12 @@
     "name": "Mistress of the Heavens",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400520": "https://static.atlasacademy.io/JP/CommandGraph/8400520a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400520": "https://static.atlasacademy.io/JP/CommandCodes/c_8400520.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400520a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400520.png"
+      ]
     },
     "skills": {
       "id": 991973,
@@ -2033,16 +1825,12 @@
     "name": "Angel's Bed",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400530": "https://static.atlasacademy.io/JP/CommandGraph/8400530a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400530": "https://static.atlasacademy.io/JP/CommandCodes/c_8400530.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400530a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400530.png"
+      ]
     },
     "skills": {
       "id": 991978,
@@ -2072,16 +1860,12 @@
     "name": "The Improbable Phantasmal Horse",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400540": "https://static.atlasacademy.io/JP/CommandGraph/8400540a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400540": "https://static.atlasacademy.io/JP/CommandCodes/c_8400540.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400540a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400540.png"
+      ]
     },
     "skills": {
       "id": 991980,
@@ -2111,16 +1895,12 @@
     "name": "Maiden of Orleans",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400550": "https://static.atlasacademy.io/JP/CommandGraph/8400550a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400550": "https://static.atlasacademy.io/JP/CommandCodes/c_8400550.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400550a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400550.png"
+      ]
     },
     "skills": {
       "id": 991981,
@@ -2150,16 +1930,12 @@
     "name": "The One Bearing Fortune",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400560": "https://static.atlasacademy.io/JP/CommandGraph/8400560a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400560": "https://static.atlasacademy.io/JP/CommandCodes/c_8400560.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400560a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400560.png"
+      ]
     },
     "skills": {
       "id": 992038,
@@ -2189,16 +1965,12 @@
     "name": "Himeji Bat",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400570": "https://static.atlasacademy.io/JP/CommandGraph/8400570a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400570": "https://static.atlasacademy.io/JP/CommandCodes/c_8400570.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400570a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400570.png"
+      ]
     },
     "skills": {
       "id": 992069,
@@ -2228,16 +2000,12 @@
     "name": "Djinn’s Lamp",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400580": "https://static.atlasacademy.io/JP/CommandGraph/8400580a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400580": "https://static.atlasacademy.io/JP/CommandCodes/c_8400580.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400580a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400580.png"
+      ]
     },
     "skills": {
       "id": 992068,
@@ -2267,16 +2035,12 @@
     "name": "Lady-in-waiting of Wisteria",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400590": "https://static.atlasacademy.io/JP/CommandGraph/8400590a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400590": "https://static.atlasacademy.io/JP/CommandCodes/c_8400590.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400590a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400590.png"
+      ]
     },
     "skills": {
       "id": 992067,
@@ -2306,16 +2070,12 @@
     "name": "Great Witch's Wheat Porridge",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400600": "https://static.atlasacademy.io/JP/CommandGraph/8400600a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400600": "https://static.atlasacademy.io/JP/CommandCodes/c_8400600.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400600a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400600.png"
+      ]
     },
     "skills": {
       "id": 992153,
@@ -2345,16 +2105,12 @@
     "name": "Blades of Niten Dōraku",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400640": "https://static.atlasacademy.io/JP/CommandGraph/8400640a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400640": "https://static.atlasacademy.io/JP/CommandCodes/c_8400640.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400640a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400640.png"
+      ]
     },
     "skills": {
       "id": 992213,
@@ -2384,16 +2140,12 @@
     "name": "Command Seal of the Azure Reaper",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400610": "https://static.atlasacademy.io/JP/CommandGraph/8400610a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400610": "https://static.atlasacademy.io/JP/CommandCodes/c_8400610.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400610a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400610.png"
+      ]
     },
     "skills": {
       "id": 992202,
@@ -2423,16 +2175,12 @@
     "name": "Cosmos Voyager's License",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400620": "https://static.atlasacademy.io/JP/CommandGraph/8400620a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400620": "https://static.atlasacademy.io/JP/CommandCodes/c_8400620.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400620a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400620.png"
+      ]
     },
     "skills": {
       "id": 992201,
@@ -2462,16 +2210,12 @@
     "name": "Vive la France",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400630": "https://static.atlasacademy.io/JP/CommandGraph/8400630a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400630": "https://static.atlasacademy.io/JP/CommandCodes/c_8400630.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400630a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400630.png"
+      ]
     },
     "skills": {
       "id": 992200,
@@ -2501,16 +2245,12 @@
     "name": "Crest of Titan's Pit",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400650": "https://static.atlasacademy.io/JP/CommandGraph/8400650a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400650": "https://static.atlasacademy.io/JP/CommandCodes/c_8400650.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400650a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400650.png"
+      ]
     },
     "skills": {
       "id": 992270,
@@ -2540,16 +2280,12 @@
     "name": "True Crimson Immortal Maiden's Command Seal",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400660": "https://static.atlasacademy.io/JP/CommandGraph/8400660a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400660": "https://static.atlasacademy.io/JP/CommandCodes/c_8400660.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400660a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400660.png"
+      ]
     },
     "skills": {
       "id": 992339,
@@ -2579,16 +2315,12 @@
     "name": "Mask of Concealed Beauty",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400670": "https://static.atlasacademy.io/JP/CommandGraph/8400670a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400670": "https://static.atlasacademy.io/JP/CommandCodes/c_8400670.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400670a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400670.png"
+      ]
     },
     "skills": {
       "id": 992340,
@@ -2618,16 +2350,12 @@
     "name": "Royal Bunny",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400680": "https://static.atlasacademy.io/JP/CommandGraph/8400680a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400680": "https://static.atlasacademy.io/JP/CommandCodes/c_8400680.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400680a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400680.png"
+      ]
     },
     "skills": {
       "id": 992341,
@@ -2657,16 +2385,12 @@
     "name": "Mini Cu-chan",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400690": "https://static.atlasacademy.io/JP/CommandGraph/8400690a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400690": "https://static.atlasacademy.io/JP/CommandCodes/c_8400690.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400690a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400690.png"
+      ]
     },
     "skills": {
       "id": 992346,
@@ -2696,16 +2420,12 @@
     "name": "Nautilus",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400700": "https://static.atlasacademy.io/JP/CommandGraph/8400700a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400700": "https://static.atlasacademy.io/JP/CommandCodes/c_8400700.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400700a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400700.png"
+      ]
     },
     "skills": {
       "id": 992347,
@@ -2735,16 +2455,12 @@
     "name": "Everyone's Da Vinci-chan",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400710": "https://static.atlasacademy.io/JP/CommandGraph/8400710a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400710": "https://static.atlasacademy.io/JP/CommandCodes/c_8400710.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400710a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400710.png"
+      ]
     },
     "skills": {
       "id": 992348,
@@ -2774,16 +2490,12 @@
     "name": "Chibi Nobu (CC)",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400720": "https://static.atlasacademy.io/JP/CommandGraph/8400720a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400720": "https://static.atlasacademy.io/JP/CommandCodes/c_8400720.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400720a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400720.png"
+      ]
     },
     "skills": {
       "id": 992376,
@@ -2813,16 +2525,12 @@
     "name": "Demon King Gun",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400730": "https://static.atlasacademy.io/JP/CommandGraph/8400730a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400730": "https://static.atlasacademy.io/JP/CommandCodes/c_8400730.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400730a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400730.png"
+      ]
     },
     "skills": {
       "id": 992377,
@@ -2852,16 +2560,12 @@
     "name": "Majin-san",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400740": "https://static.atlasacademy.io/JP/CommandGraph/8400740a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400740": "https://static.atlasacademy.io/JP/CommandCodes/c_8400740.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400740a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400740.png"
+      ]
     },
     "skills": {
       "id": 992378,
@@ -2891,16 +2595,12 @@
     "name": "Leviathan",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400750": "https://static.atlasacademy.io/JP/CommandGraph/8400750a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400750": "https://static.atlasacademy.io/JP/CommandCodes/c_8400750.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400750a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400750.png"
+      ]
     },
     "skills": {
       "id": 992414,
@@ -2930,16 +2630,12 @@
     "name": "Pestle of the Kleshas",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400760": "https://static.atlasacademy.io/JP/CommandGraph/8400760a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400760": "https://static.atlasacademy.io/JP/CommandCodes/c_8400760.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400760a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400760.png"
+      ]
     },
     "skills": {
       "id": 992415,
@@ -2969,16 +2665,12 @@
     "name": "Heavenly Emperor's Consort",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400770": "https://static.atlasacademy.io/JP/CommandGraph/8400770a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400770": "https://static.atlasacademy.io/JP/CommandCodes/c_8400770.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400770a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400770.png"
+      ]
     },
     "skills": {
       "id": 992416,
@@ -3008,16 +2700,12 @@
     "name": "Tarasque",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400780": "https://static.atlasacademy.io/JP/CommandGraph/8400780a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400780": "https://static.atlasacademy.io/JP/CommandCodes/c_8400780.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400780a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400780.png"
+      ]
     },
     "skills": {
       "id": 992464,
@@ -3047,16 +2735,12 @@
     "name": "Staff of the Dragon's Saintess",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400790": "https://static.atlasacademy.io/JP/CommandGraph/8400790a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400790": "https://static.atlasacademy.io/JP/CommandCodes/c_8400790.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400790a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400790.png"
+      ]
     },
     "skills": {
       "id": 992466,
@@ -3086,16 +2770,12 @@
     "name": "Endowed Hero",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400800": "https://static.atlasacademy.io/JP/CommandGraph/8400800a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400800": "https://static.atlasacademy.io/JP/CommandCodes/c_8400800.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400800a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400800.png"
+      ]
     },
     "skills": {
       "id": 992467,
@@ -3125,16 +2805,12 @@
     "name": "The One who Carries the Grand Mother",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400810": "https://static.atlasacademy.io/JP/CommandGraph/8400810a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400810": "https://static.atlasacademy.io/JP/CommandCodes/c_8400810.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400810a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400810.png"
+      ]
     },
     "skills": {
       "id": 992491,
@@ -3164,16 +2840,12 @@
     "name": "Mini-Ushiwaka",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400820": "https://static.atlasacademy.io/JP/CommandGraph/8400820a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400820": "https://static.atlasacademy.io/JP/CommandCodes/c_8400820.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400820a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400820.png"
+      ]
     },
     "skills": {
       "id": 992492,
@@ -3203,16 +2875,12 @@
     "name": "Tengu's Hauchiwa",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400830": "https://static.atlasacademy.io/JP/CommandGraph/8400830a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400830": "https://static.atlasacademy.io/JP/CommandCodes/c_8400830.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400830a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400830.png"
+      ]
     },
     "skills": {
       "id": 992493,
@@ -3242,16 +2910,12 @@
     "name": "Heavenly Child of Kurama",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400840": "https://static.atlasacademy.io/JP/CommandGraph/8400840a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400840": "https://static.atlasacademy.io/JP/CommandCodes/c_8400840.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400840a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400840.png"
+      ]
     },
     "skills": {
       "id": 992494,
@@ -3281,16 +2945,12 @@
     "name": "Witch's Command Seal",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400850": "https://static.atlasacademy.io/JP/CommandGraph/8400850a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400850": "https://static.atlasacademy.io/JP/CommandCodes/c_8400850.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400850a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400850.png"
+      ]
     },
     "skills": {
       "id": 992516,
@@ -3320,16 +2980,12 @@
     "name": "Lover's Holy Shroud",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400860": "https://static.atlasacademy.io/JP/CommandGraph/8400860a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400860": "https://static.atlasacademy.io/JP/CommandCodes/c_8400860.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400860a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400860.png"
+      ]
     },
     "skills": {
       "id": 992517,
@@ -3359,16 +3015,12 @@
     "name": "Moon Goddess in Love",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400870": "https://static.atlasacademy.io/JP/CommandGraph/8400870a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400870": "https://static.atlasacademy.io/JP/CommandCodes/c_8400870.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400870a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400870.png"
+      ]
     },
     "skills": {
       "id": 992518,
@@ -3398,16 +3050,12 @@
     "name": "Elegant Classic Phantom Thief Hat",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400880": "https://static.atlasacademy.io/JP/CommandGraph/8400880a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400880": "https://static.atlasacademy.io/JP/CommandCodes/c_8400880.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400880a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400880.png"
+      ]
     },
     "skills": {
       "id": 992572,
@@ -3437,16 +3085,12 @@
     "name": "Idol☆Hat",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400890": "https://static.atlasacademy.io/JP/CommandGraph/8400890a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400890": "https://static.atlasacademy.io/JP/CommandCodes/c_8400890.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400890a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400890.png"
+      ]
     },
     "skills": {
       "id": 992649,
@@ -3476,16 +3120,12 @@
     "name": "Bellows of Meteoric Iron",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400900": "https://static.atlasacademy.io/JP/CommandGraph/8400900a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400900": "https://static.atlasacademy.io/JP/CommandCodes/c_8400900.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400900a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400900.png"
+      ]
     },
     "skills": {
       "id": 992650,
@@ -3515,16 +3155,12 @@
     "name": "Saber Exterminating Weapons",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400910": "https://static.atlasacademy.io/JP/CommandGraph/8400910a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400910": "https://static.atlasacademy.io/JP/CommandCodes/c_8400910.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400910a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400910.png"
+      ]
     },
     "skills": {
       "id": 992651,
@@ -3554,16 +3190,12 @@
     "name": "Mysterious Mask",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400950": "https://static.atlasacademy.io/JP/CommandGraph/8400950a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400950": "https://static.atlasacademy.io/JP/CommandCodes/c_8400950.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400950a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400950.png"
+      ]
     },
     "skills": {
       "id": 992799,
@@ -3593,16 +3225,12 @@
     "name": "Amulet of the Monster",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400920": "https://static.atlasacademy.io/JP/CommandGraph/8400920a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400920": "https://static.atlasacademy.io/JP/CommandCodes/c_8400920.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400920a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400920.png"
+      ]
     },
     "skills": {
       "id": 992811,
@@ -3632,16 +3260,12 @@
     "name": "Mini Border",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400930": "https://static.atlasacademy.io/JP/CommandGraph/8400930a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400930": "https://static.atlasacademy.io/JP/CommandCodes/c_8400930.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400930a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400930.png"
+      ]
     },
     "skills": {
       "id": 992809,
@@ -3671,16 +3295,12 @@
     "name": "Chiyogami Captain",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400940": "https://static.atlasacademy.io/JP/CommandGraph/8400940a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400940": "https://static.atlasacademy.io/JP/CommandCodes/c_8400940.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400940a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400940.png"
+      ]
     },
     "skills": {
       "id": 992807,
@@ -3710,16 +3330,12 @@
     "name": "Matching Teddy-Bears",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8400990": "https://static.atlasacademy.io/JP/CommandGraph/8400990a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8400990": "https://static.atlasacademy.io/JP/CommandCodes/c_8400990.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8400990a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8400990.png"
+      ]
     },
     "skills": {
       "id": 992842,
@@ -3749,16 +3365,12 @@
     "name": "Fantastical Iron Maiden",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8401000": "https://static.atlasacademy.io/JP/CommandGraph/8401000a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8401000": "https://static.atlasacademy.io/JP/CommandCodes/c_8401000.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8401000a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8401000.png"
+      ]
     },
     "skills": {
       "id": 992841,
@@ -3788,16 +3400,12 @@
     "name": "Shrine Maiden of the Silver Key",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8401010": "https://static.atlasacademy.io/JP/CommandGraph/8401010a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8401010": "https://static.atlasacademy.io/JP/CommandCodes/c_8401010.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8401010a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8401010.png"
+      ]
     },
     "skills": {
       "id": 992840,
@@ -3827,16 +3435,12 @@
     "name": "Nobusengumi",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8401020": "https://static.atlasacademy.io/JP/CommandGraph/8401020a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8401020": "https://static.atlasacademy.io/JP/CommandCodes/c_8401020.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8401020a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8401020.png"
+      ]
     },
     "skills": {
       "id": 992876,
@@ -3866,16 +3470,12 @@
     "name": "A Gentle Wish",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8401030": "https://static.atlasacademy.io/JP/CommandGraph/8401030a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8401030": "https://static.atlasacademy.io/JP/CommandCodes/c_8401030.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8401030a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8401030.png"
+      ]
     },
     "skills": {
       "id": 992877,
@@ -3905,16 +3505,12 @@
     "name": "Demon Vice Captain",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8401040": "https://static.atlasacademy.io/JP/CommandGraph/8401040a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8401040": "https://static.atlasacademy.io/JP/CommandCodes/c_8401040.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8401040a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8401040.png"
+      ]
     },
     "skills": {
       "id": 992878,
@@ -3944,16 +3540,12 @@
     "name": "Enma-tei's Apprentices",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8401050": "https://static.atlasacademy.io/JP/CommandGraph/8401050a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8401050": "https://static.atlasacademy.io/JP/CommandCodes/c_8401050.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8401050a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8401050.png"
+      ]
     },
     "skills": {
       "id": 992899,
@@ -3983,16 +3575,12 @@
     "name": "All Wounds Must Be Mended",
     "rarity": 4,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8401060": "https://static.atlasacademy.io/JP/CommandGraph/8401060a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8401060": "https://static.atlasacademy.io/JP/CommandCodes/c_8401060.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8401060a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8401060.png"
+      ]
     },
     "skills": {
       "id": 992900,
@@ -4022,16 +3610,12 @@
     "name": "The Proprietress of the Sparrow Inn",
     "rarity": 5,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8401070": "https://static.atlasacademy.io/JP/CommandGraph/8401070a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8401070": "https://static.atlasacademy.io/JP/CommandCodes/c_8401070.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8401070a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8401070.png"
+      ]
     },
     "skills": {
       "id": 992901,
@@ -4061,16 +3645,12 @@
     "name": "Jaguar Warrior",
     "rarity": 3,
     "extraAssets": {
-      "charaGraph": {
-        "cc": {
-          "8401080": "https://static.atlasacademy.io/JP/CommandGraph/8401080a.png"
-        }
-      },
-      "faces": {
-        "cc": {
-          "8401080": "https://static.atlasacademy.io/JP/CommandCodes/c_8401080.png"
-        }
-      }
+      "charaGraph": [
+        "https://static.atlasacademy.io/JP/CommandGraph/8401080a.png"
+      ],
+      "faces": [
+        "https://static.atlasacademy.io/JP/CommandCodes/c_8401080.png"
+      ]
     },
     "skills": {
       "id": 992945,
